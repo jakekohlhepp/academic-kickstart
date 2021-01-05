@@ -5,7 +5,7 @@ title = "Selection Against Injury Risk: Labor Supply Decisions of Los Angeles Tr
 date = "2020-07-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["with Michael Ludwig"]
+authors = ["Jacob Kohlhepp"]
 
 # Publication type.
 # Legend:
@@ -23,7 +23,16 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = " We employ a novel data set of 219,000 workers' compensation claims and pay records to understand whether traffic officers account for injury risk when making daily labor supply decisions. We use variation in the leave of coworkers as an instrument inducing officers to work. We find that officer appear to mitigate their own injury risk: on average an officer at the 60th percentile of willingness to work is 2.6 times more likely to be injured as an officer at the 80th percentile. Using variation in hourly wages, we also calculate the marginal value of injury risk, defined as the value of a 1 percentage point reduction in injury probability for officers that are indifferent between working and staying home. A 1 percentage point decrease in injury risk is valued on average between 31 and 67 dollars in earnings. Using our model, we simulate the benefits of switching to a shift-auction mechanism of shift assignment. We find that shift auctions more fully leverage officer's natural tendency to select against risk, and as a result reduce the injury rate by 38 percent compared to a random list mechanism."
+abstract = "Workplace injury carries a large economic and human cost, yet little is known about how individual
+behavior impacts aggregate injury rates. This paper explores the role injury risk plays in labor supply
+decisions using the daily pay and workers’ compensation records of 553 Los Angeles traffic officers over
+a 21 month period. The leave of coworkers and the size of an officer’s network are used to identify
+how people with different injury propensity select into work. Officers supply more labor when they are
+less likely to be injured. Self-selection into work leads to large reductions in aggregate injury risk: the
+estimated population injury rate is 8.5 times larger than the injury rate observed among shifts worked.
+The results imply that mechanisms which assign shifts to those who value them most will reduce aggregate
+injury rates. Model estimates are used to compute the value of a statistical injury, which for Los Angeles
+traffic officers is between \$11,710 and \$23,419."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
