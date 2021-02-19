@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>programming | Jacob Kohlhepp</title>
+    <link>/tag/programming/</link>
+      <atom:link href="/tag/programming/index.xml" rel="self" type="application/rss+xml" />
+    <description>programming</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>programming</title>
+      <link>/tag/programming/</link>
+    </image>
+    
+    <item>
+      <title>Dear Julia: An R/STATA User&#39;s Journey to Learn</title>
+      <link>/post/dear-julia-an-r-stata-user-s-journay-to-learn/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/post/dear-julia-an-r-stata-user-s-journay-to-learn/</guid>
+      <description>
+
+
+&lt;p&gt;I began auditing Tyler Ransom’s structural econometrics course this week. part of the course involves learning to use Julia. I have heard the rumors about Julia’s fantastic speed, so I have decided to really try and learn the language!&lt;/p&gt;
+&lt;p&gt;I will be documenting my experiences in subsequents posts. The focus will be on how Julia compares in style to R and STATA, the two languages I currently use.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;print(&amp;quot;Goodbye R world&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] &amp;quot;Goodbye R world&amp;quot;&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

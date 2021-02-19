@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Jacob Kohlhepp</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Who Gets the Job: A Model of Delegated Recruitment with Multidimensional Applicants</title>
+      <link>/publication/who-gets-the-job/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/who-gets-the-job/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selection Against Injury Risk: Labor Supply Decisions of Los Angeles Traffic Officers</title>
+      <link>/publication/selection-injury/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/selection-injury/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

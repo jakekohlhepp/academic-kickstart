@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jacob Kohlhepp</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jacob Kohlhepp</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jacob Kohlhepp</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Dear Julia: An R/STATA User&#39;s Journey to Learn</title>
+      <link>/post/dear-julia-an-r-stata-user-s-journay-to-learn/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/post/dear-julia-an-r-stata-user-s-journay-to-learn/</guid>
+      <description>
+
+
+&lt;p&gt;I began auditing Tyler Ransom’s structural econometrics course this week. part of the course involves learning to use Julia. I have heard the rumors about Julia’s fantastic speed, so I have decided to really try and learn the language!&lt;/p&gt;
+&lt;p&gt;I will be documenting my experiences in subsequents posts. The focus will be on how Julia compares in style to R and STATA, the two languages I currently use.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;print(&amp;quot;Goodbye R world&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] &amp;quot;Goodbye R world&amp;quot;&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Who Gets the Job: A Model of Delegated Recruitment with Multidimensional Applicants</title>
+      <link>/publication/who-gets-the-job/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/who-gets-the-job/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Volunteer Matching</title>
+      <link>/project/efficient-volunteer-matching/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/project/efficient-volunteer-matching/</guid>
+      <description>
+
+
+&lt;iframe src=&#34;https://www.intrepidinsight.com/shinyapp/efficient_volunteer/&#34; width=&#34;100%&#34; height=&#34;2000px&#34; frameborder=&#34;0&#34; scrolling=&#34;auto&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Selection Against Injury Risk: Labor Supply Decisions of Los Angeles Traffic Officers</title>
+      <link>/publication/selection-injury/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/selection-injury/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;All content on this website is trademark of Jacob Kohlhepp unless otherwise stated.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
