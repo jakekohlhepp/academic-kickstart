@@ -23,11 +23,11 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Workplace injury carries a large economic and human cost, yet little is known about how individual behavior impacts aggregate injury rates. This paper explores the role injury risk plays in labor supply decisions using the daily pay and workers’ compensation records of 553 Los Angeles traffic officers over a 21 month period. The leave of coworkers and the size of an officer’s network are used to identify how people with different injury propensity select into work. Officers supply more labor when they are less likely to be injured. Self-selection into work leads to large reductions in aggregate injury risk: the estimated population injury rate is 8.5 times larger than the injury rate observed among shifts worked. The results imply that mechanisms which assign shifts to those who value them most will reduce aggregate injury rates. Model estimates are used to compute the value of a statistical injury, which for Los Angeles traffic officers is between 11,710 and 23,419 dollars."
+abstract = "This paper investigates the relationship between individual injury risk and labor supply. This paper is the first to explore how workers within a single organization working the same job process idiosyncratic injury risk. I utilize a novel panel data set of traffic officers. Unique aspects of overtime assignment, including randomization, leave of coworkers, and informal trading enable identification. I find daily labor supply is downward sloping in injury risk: officers are less likely to work when they are more likely to be injured. This self-selection leads to an observed injury rate which is 8.5 times smaller than the underlying average injury rate. I show this has wide-ranging implications for labor supply elasticities, the value of statistical injuries, and overtime assignment."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-#image_preview = "recruiter_graph.png"
+image_preview = "images/01_07b_labor_supply.pdf"
 
 # Is this a selected publication? (true/false)
 selected = true
