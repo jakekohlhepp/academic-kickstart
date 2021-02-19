@@ -1,5 +1,5 @@
 +++
-title = "Selection Against Injury Risk: Labor Supply Decisions of Los Angeles Traffic Officers"
+title = "Individual Injury Risk and the Labor Supply of Traffic Officers"
 
 # Date first published.
 date = "2020-07-15"
@@ -23,7 +23,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "This paper investigates the relationship between individual injury risk and labor supply. This paper is the first to explore how workers within a single organization working the same job process idiosyncratic injury risk. I utilize a novel panel data set of traffic officers. Unique aspects of overtime assignment, including randomization, leave of coworkers, and informal trading enable identification. I find daily labor supply is downward sloping in injury risk: officers are less likely to work when they are more likely to be injured. This self-selection leads to an observed injury rate which is 8.5 times smaller than the underlying average injury rate. I show this has wide-ranging implications for labor supply elasticities, the value of statistical injuries, and overtime assignment."
+abstract = "This paper investigates the relationship between individual workplace injury risk and labor supply. I utilize a novel panel data set of traffic officers. Unique aspects of overtime assignment, including randomization, leave of coworkers, and informal trading enable identification. I find daily labor supply is downward sloping in injury risk: officers are less likely to work when they are more likely to be injured. This self-selection leads to an observed injury rate which is 8.5 times smaller than the underlying average injury rate. I show this has wide-ranging implications for labor supply elasticities, the value of statistical injuries, and overtime assignment."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
