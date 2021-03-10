@@ -18,10 +18,10 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include individual labor economics and applied theory.
+bio: My research interests include labor economics and applied theory.
 
 interests:
-- Labor Economics
+- Labor and Personnel Economics
 - Applied Theory
 
 education:
@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Jacob Kohlhepp is a PhD student in economics at UCLA. He enjoys studying questions that deal with individual labor market decisions, including daily labor supply and job search behavior. He also has a general interest in any economic question which mixes interesting theoretical forces with data.
+Thank you for visiting my website. I am a PhD student in economics at UCLA. My research focuses on how individual decisions shape labor market outcomes. I have a general interest in capturing interesting theoretical forces with data.

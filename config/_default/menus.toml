@@ -9,28 +9,35 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 20
+  name = "Research"
+  url = "publication/"
+  weight = 40
+[[main]]
+  name = "Teaching"
+  url = "teaching/"
+  weight = 50
+ 
+ # Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+[[main]]
+   name = "CV"
+   url = "files/cv.pdf"
+  weight = 70
+ 
+#[[main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 20
 
 [[main]]
   name = "Projects"
   url = "project/"
   weight = 30
 
-[[main]]
-  name = "Research"
-  url = "publication/"
-  weight = 40
 
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
+#[[main]]
+#  name = "Contact"
+#  url = "#contact"
+#  weight = 60
 
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-[[main]]
-   name = "CV"
-   url = "files/cv.pdf"
-  weight = 70
+
