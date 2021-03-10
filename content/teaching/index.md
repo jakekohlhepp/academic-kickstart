@@ -15,5 +15,7 @@ projects: []
 ## Teaching Assistant
 
 ** ECON 11: Microeconomic Theory I** (Fall 2019)
+
 ** ECON 106I: Organizational Economics** (Winter 2020)
+
 ** ECON 201C: PhD Micreconomic Theory III** (Spring 2020)
