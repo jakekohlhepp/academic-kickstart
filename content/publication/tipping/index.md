@@ -1,11 +1,11 @@
 +++
-title = "Individual Injury Risk and the Labor Supply of Traffic Officers"
+title = "Is Tipping Economically Relevant? Evidence from the Beauty Industry"
 
 # Date first published.
-date = "2021-02-01"
+date = "2021-03-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jacob Kohlhepp"]
+authors = ["Jacob Kohlhepp", "Daniel Ober-Reynolds"]
 
 # Publication type.
 # Legend:
@@ -23,11 +23,10 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "This paper investigates the relationship between individual workplace injury risk and labor supply. I utilize a novel panel data set of traffic officers. Unique aspects of overtime assignment, including randomization, leave of coworkers, and informal trading enable identification. I find daily labor supply is downward sloping in injury risk: officers are less likely to work when they are more likely to be injured. This self-selection leads to an observed injury rate which is 8.5 times smaller than the underlying average injury rate. I show this has wide-ranging implications for labor supply elasticities, the value of statistical injuries, and overtime assignment."
-abstract_short = ""
+abstract = "Tipping represents a large part of U.S. economic activity. An open question is whether it has a meaningful impact on economic outcomes. Does tipping shape incentives and welfare or is it just a transfer based on a social norms? We answer this question by using a novel data set recording tips left by clients for customers. We develop a simple conceptual framework which allows us to test whether tipping is economically meaningful. In contract to previous results, we find evidence that tipping is quality dependent yet not connected to dynamic incentives."
 
 # Featured image thumbnail (optional)
-image_preview = "images/01_07b_labor_supply.pdf"
+#image_preview = ""
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -40,12 +39,12 @@ projects = []
 
 # Links (optional).
 
-url_pdf = "pdf/selection_risk.pdf"
+url_pdf = ""
 url_preprint = ""
-url_code = "https://github.com/jakekohlhepp/selection_injury"
-url_dataset = "files/traffic_officer_data.zip"
+url_code = ""
+url_dataset = ""
 url_project = ""
-url_slides = "pdf/slides_selection_risk.pdf"
+url_slides = "pdf/slides_tipping.pdf"
 url_video = ""
 url_poster = ""
 url_source = ""

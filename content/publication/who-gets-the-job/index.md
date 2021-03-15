@@ -2,10 +2,10 @@
 title = "Who Gets the Job: A Model of Delegated Recruitment with Multidimensional Applicants"
 
 # Date first published.
-date = "2020-08-20"
+date = "2021-03-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-#authors = [""]
+authors = ["Jacob Kohlhepp", "Stepan Aleksenko"]
 
 # Publication type.
 # Legend:
