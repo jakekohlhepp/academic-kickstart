@@ -30,20 +30,6 @@ date_format = "Jan 2006"
   * Adverse impact analysis
   * Pay equity
   """
-
-[[experience]]
-  title = "Teaching Assistant"
-  company = "UCLA"
-  company_url = ""
-  location = "Los Angeles"
-  date_start = "2019-09-21"
-  date_end = "2020-06-15"
-  description = """
-  
-  * PhD Microeconomics III: Asymmetric Information (Econ 201C)
-  * Organizational Economics (Econ 106I)
-  * Intermediate Microeconomics (Econ 11)
-  """
 [[experience]]
   title = "Economic Consultant"
   company = "Boulevard"
