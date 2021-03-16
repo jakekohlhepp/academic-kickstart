@@ -14,7 +14,7 @@ role: PhD Student in Economics
 
 # Organizations/Affiliations
 organizations:
-- name: University of California, Los Angeles
+- name: UCLA
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:jkohlhepp@ucla.edu.
+  link: mailto:jkohlhepp@ucla.edu
 - icon: twitter
   icon_pack: fab
   link: https://www.twitter.com/jakekohlhepp
