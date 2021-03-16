@@ -17,44 +17,41 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-
 [[item]]
   organization = "Lecturer"
   organization_url = ""
   title = "ECON 101: Microeconomic Theory II"
   url = ""
   certificate_url = ""
-  date_start = "Summer 2021"
+  date_start = "2018-10-01"
   date_end = ""
   description = ""
-
 [[item]]
   organization = "Teaching Assistant"
   organization_url = ""
   title = "ECON 201C: PhD Micreconomic Theory III"
   url = ""
   certificate_url = ""
-  date_start = "Spring 2020"
+  date_start = "2018-10-01"
   date_end = ""
   description = ""
-  
 [[item]]
   organization = "Teaching Assistant"
   organization_url = ""
   title = "ECON 106I: Organizational Economics"
   url = ""
   certificate_url = ""
-  date_start = "Winter 2020"
+  date_start = "2018-10-01"
   date_end = ""
   description = ""
-  
+
 [[item]]
   organization = "Teaching Assistant"
   organization_url = ""
   title = "ECON 11: Microeconomic Theory I"
   url = ""
   certificate_url = ""
-  date_start = "Fall 2019"
+  date_start = "2018-10-01"
   date_end = ""
   description = ""
 
