@@ -2,7 +2,7 @@
 title = "Is Tipping Economically Relevant? Evidence from the Beauty Industry"
 
 # Date first published.
-date = "2021-03-15"
+date = "2021-04-05"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jacob Kohlhepp", "Daniel Ober-Reynolds"]
@@ -23,7 +23,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Tipping represents a large part of U.S. economic activity. An open question is whether it has a meaningful impact on economic outcomes. Does tipping shape incentives and welfare or is it just a transfer based on a social norms? We answer this question by using a novel data set recording tips left by clients for customers. We develop a simple conceptual framework which allows us to test whether tipping is economically meaningful. In contract to previous results, we find evidence that tipping is quality dependent yet not connected to dynamic incentives."
+abstract = "In this paper we demonstrate tips are sensitive to service quality even when future interaction is unlikely. Using a novel data set covering 150,000 hair salon appointments where customers can be observed over time, we are able to exploit variation in service quality and exogenous separation rates. This allows us to separate the dynamic and direct effect of service quality on tips. We show that tipping behavior is consistent with a ``social norm for quality" where clients tip based on perceived quality even when they do not expect to see the stylist again. At the same time, dynamic concerns make tips more sensitive to quality. Overall tipping social norms appear to encourage greater effort provision and cooperation than would be possible in a purely rational environment. We believe this an example of a custom that organically evolved to support better market outcomes. Our results have important implications for the optimal taxation of tips."
 
 # Featured image thumbnail (optional)
 #image_preview = ""
