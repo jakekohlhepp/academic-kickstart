@@ -1,5 +1,5 @@
 +++
-title = "Who Gets the Job: A Model of Delegated Recruitment with Multidimensional Applicants"
+title = "Delegated Recruitment and Hiring Mismatch"
 
 # Date first published.
 date = "2021-03-15"
@@ -23,8 +23,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "In this paper, I construct a theoretical model of delegated recruitment. In the model, applicants are multidimensional, differing in both expected ability and what I term hiring risk. When the space of contracts is limited to the bonus contract commonly observed in the recruitment industry, the pool of applicants exhibits lower hiring risk then the first-best benchmark, even when recruiters are risk neutral. This implies recruiters pass-over high risk high reward applicants in favor of low risk, low-reward applicants. In a parametric implementation of the model, search efficiency and search intensity increase as the negative correlation between expected ability and hiring risk increases. Although the model is applied to recruiters, it extends well to any situations where search is delegated, the searched item has two dimensions, and there is an initial trial period."
-abstract_short = "This paper constructs a tractable model of delegated recruitment. The model is used to show how recruiters select suboptimal candidates due to the form of their contracts."
+abstract = "A firm hires a recruiter to find a worker. Search over candidates is noisy:  the recruiter does not know productivity exactly  but  instead  forms an  estimate  of  a  worker’s  productivity  expectation  and variance.  We analyze how delegation under the commonly used refund contract between the firm and the recruiter affects search. We find the contract induces hiring mismatch, where the recruiter focuses on finding low variance instead of high expected productivity workers. More heterogeneity in worker productivity variance causes greater hiring mismatch and welfare loss. Our model predicts variance-based statistical discrimination in hiring like that suggested by the Heckman-Siegalman critique. We also analyze the relationship between direct and delegated search, establishing delegation is equivalent to adding noise to the search technology."
 
 # Featured image thumbnail (optional)
 #image_preview = "recruiter_graph.png"
