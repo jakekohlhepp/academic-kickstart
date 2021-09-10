@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student in Economics
+role: PhD Candidate in Economics
 
 # Organizations/Affiliations
 organizations:
@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Thank you for visiting my website. I am a PhD student in economics at UCLA. My research focuses on how individual decisions shape labor market outcomes. I have a general interest in capturing interesting theoretical forces with data.
+Thank you for visiting my website. I am a PhD candidate in economics at UCLA. My research focuses on how human resource decisions within firms shape market outcomes. I generally enjoy any project that involves capturing interesting theoretical forces with data.

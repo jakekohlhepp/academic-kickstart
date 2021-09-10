@@ -23,7 +23,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = " A firm delegates search for a worker to a recruiter. Productivity is uncertain prior to hire with recruiter beliefs characterized by an expectation and variance. Delegation occurs using a refund contract which is common in the industry. We analyze how delegation in this setting shapes search behavior and the composition of hires. We demonstrate that delegation is theoretically equivalent to making the search technology less accurate. This generates inefficiency: search effort and social surplus are lower under delegation than in the first-best benchmark. We show this inefficiency is driven by moral hazard with a multitasking flavor. The recruiter wastes search effort finding low variance workers at the expense of high expectation workers.  As a result, as workers become more homogeneous with respect to productivity variance, delegation becomes more efficient. Our model provides a microfoundation for variance-based statistical discrimination."
+abstract = "We analyze how delegating recruitment influences the search for talent. During search, the recruiter does not learn worker productivity but only forms a belief characterized by an expectation and a variance. We demonstrate that delegation is equivalent to making the search technology less accurate. Delegation results in moral hazard with a multitasking flavor, where the recruiter wastes effort finding low-variance workers at the expense of high-expectation workers. As workers become more homogeneous with respect to productivity variance delegation becomes more efficient. Our model provides a theoretical connection between delegation and variance-based statistical discrimination."
 
 # Featured image thumbnail (optional)
 #image_preview = "recruiter_graph.png"
@@ -40,7 +40,7 @@ projects = []
 # Links (optional).
 
 url_pdf = "pdf/recruit.pdf"
-url_preprint = ""
+url_preprint = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3905019"
 url_code = ""
 url_dataset = ""
 url_project = ""
