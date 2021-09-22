@@ -1,8 +1,8 @@
 +++
-title = "Delegated Recruitment and Hiring Mismatch"
+title = "Delegated Recruitment and Hiring Distortions"
 
 # Date first published.
-date = "2021-03-15"
+date = "2021-09-22"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jacob Kohlhepp", "Stepan Aleksenko"]
@@ -23,7 +23,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "We analyze how delegating recruitment influences the search for talent. During search, the recruiter does not learn worker productivity but only forms a belief characterized by an expectation and a variance. We demonstrate that delegation is equivalent to making the search technology less accurate. Delegation results in moral hazard with a multitasking flavor, where the recruiter wastes effort finding low-variance workers at the expense of high-expectation workers. As workers become more homogeneous with respect to productivity variance delegation becomes more efficient. Our model provides a theoretical connection between delegation and variance-based statistical discrimination."
+abstract = "We develop a model in which a principal delegates sequential search over uncertain objects to an agent. We use the model to analyze how recruiters influence the search for talent. During search, the recruiter does not learn worker productivity but only forms a belief characterized by an expectation and a variance. We demonstrate that delegation is equivalent to making the search technology less accurate. Delegation results in moral hazard with a multitasking flavor, where the recruiter wastes effort finding low-variance workers at the expense of high-expectation workers. As workers become more homogeneous with respect to productivity variance delegation becomes more efficient. Our results provide a theoretical connection between delegation and variance-based statistical discrimination."
 
 # Featured image thumbnail (optional)
 #image_preview = "recruiter_graph.png"
