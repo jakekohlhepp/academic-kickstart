@@ -39,12 +39,12 @@ projects = []
 
 # Links (optional).
 
-url_pdf = "pdf/tipping.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
-url_slides = ""
+url_slides = "pdf/tipping_slides.pdf"
 url_video = ""
 url_poster = ""
 url_source = ""
