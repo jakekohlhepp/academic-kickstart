@@ -1,0 +1,39 @@
+---
+title: Micreconomic Theory Notes
+author: ''
+date: '2020-08-18'
+slug: efficient-volunteer-matching
+categories: []
+tags: ['matching','algorithms', 'volunteers']
+subtitle: ''
+summary: 'An app that uses volunteer preferences to match volunteers to tasks.'
+authors: []
+lastmod: '2020-08-18T15:48:42-07:00'
+featured: no
+image:
+  placement: 1
+  caption: ''
+  focal_point: ''
+  preview_only: yes
+projects: []
+---
+
+I created these notes when I served as a teaching assistant for the 3rd PhD microeconomics course at UCLA. The course itself covers various topics related to asymmetric information and mahecnism design.
+
+[Notes on Monotone Comparative Statics](pdf/mon_notes.pdf)
+
+[Notes on Hamiltonians](pdf/hamil_notes.pdf)
+
+[Notes on Continuous Action Moral Hazard](pdf/cont_moralhazard.pdf)
+
+[Notes on Common Value Auctions](pdf/common_auctions.pdf)
+
+[Notes on Multitasking with harmful Effort](pdf/multi_notes.pdf)
+
+[Lemons in Health Insurance](pdf/lemons.pdf)
+
+[Notes on Bayesian nash Equilibrium and Continuous Action Spence Signaling](pdf/bne_spence_notes.pdf)
+
+[Notes on Bayesian vs. Dominant Strategy Implementation](pdf/implement.pdf)
+
+ 
