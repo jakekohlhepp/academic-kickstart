@@ -25,8 +25,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2021-08-01"
   date_end = ""
-  description = "[Teaching materials](https://github.com/jakekohlhepp/Econ101)\
-  [Evaluations](pdf/evals_101.pdf)"
+  description = "[Teaching Materials](https://github.com/jakekohlhepp/Econ101) || [Evaluations](pdf/evals_101.pdf)"
 [[item]]
   organization = "Teaching Assistant"
   organization_url = ""
@@ -35,8 +34,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-05-01"
   date_end = ""
-  description = "[Assorted notes](https://www.jkohlhepp.com/project/micro_notes/)\
-  [Evaluations](pdf/evals_201c.pdf)"
+  description = "[Assorted Notes](https://www.jkohlhepp.com/project/micro_notes/) || [Evaluations](pdf/evals_201c.pdf)"
 [[item]]
   organization = "Teaching Assistant"
   organization_url = ""
@@ -45,8 +43,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-03-01"
   date_end = ""
-  description = "[Evaluations - First Set](pdf/evals_106i_1.pdf)\
-  [Evaluations - Second Set](pdf/evals_106i_2.pdf)"
+  description = "[Evaluations - First Set](pdf/evals_106i_1.pdf) || [Evaluations - Second Set](pdf/evals_106i_2.pdf)"
 [[item]]
   organization = "Teaching Assistant"
   organization_url = ""
@@ -55,7 +52,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-10-01"
   date_end = ""
-  description = "[Evaluations - First Set](pdf/evals_11_1.pdf)\
-  [Evaluations - Second Set](pdf/evals_11_2.pdf)"
+  description = "[Evaluations - First Set](pdf/evals_11_1.pdf) || [Evaluations - Second Set](pdf/evals_11_2.pdf)"
 
 +++
