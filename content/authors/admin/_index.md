@@ -69,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-Thank you for visiting my website! I am a PhD candidate in economics at UCLA studying labor and personnel economics. My research focuses on how human resource decisions within firms shape the overall labor market. I enjoy any project that involves capturing interesting theoretical forces with data.
+Thank you for visiting my website! I am a PhD candidate in economics at UCLA studying labor and personnel economics. My research focuses on how human resource decisions within firms shape the overall labor market. I enjoy any project that involves capturing interesting theoretical forces with data. My CV is available [here](files/cv.pdf).
 
 I am a proud husband and father. My wife and I maintain a blog where we summarize each week of our marriage, which you can read here: [www.thekohlhepps.com](https://www.thekohlhepps.com). It documents our journey navigating faith, careers, and starting a family.
