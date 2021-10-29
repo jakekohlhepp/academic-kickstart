@@ -1,14 +1,14 @@
 ---
 title: Micreconomic Theory Notes
 author: ''
-date: '2020-08-18'
-slug: efficient-volunteer-matching
+date: '2021-10-29'
+slug: micro_notes
 categories: []
-tags: ['matching','algorithms', 'volunteers']
+tags: ['micro','theory', 'volunteers']
 subtitle: ''
-summary: 'An app that uses volunteer preferences to match volunteers to tasks.'
+summary: 'Notes on graduate microeconomic theory'
 authors: []
-lastmod: '2020-08-18T15:48:42-07:00'
+lastmod: '2021-10-29T15:48:42-07:00'
 featured: no
 image:
   placement: 1
@@ -18,7 +18,7 @@ image:
 projects: []
 ---
 
-I created these notes when I served as a teaching assistant for the 3rd PhD microeconomics course at UCLA. The course itself covers various topics related to asymmetric information and mahecnism design.
+I created these notes when I served as a teaching assistant for the 3rd core PhD microeconomics course at UCLA. The course itself covers various topics related to asymmetric information and mahecnism design.
 
 [Notes on Monotone Comparative Statics](pdf/mon_notes.pdf)
 
