@@ -4,21 +4,18 @@ author: ''
 date: '2021-10-29'
 slug: micro_notes
 categories: []
-tags: ['micro','theory', 'volunteers']
+tags: []
 subtitle: ''
-summary: 'Notes on graduate microeconomic theory'
+summary: ''
 authors: []
-lastmod: '2021-10-29T15:48:42-07:00'
+lastmod: '2021-10-29T13:23:48-07:00'
 featured: no
 image:
-  placement: 1
   caption: ''
   focal_point: ''
-  preview_only: yes
+  preview_only: no
 projects: []
 ---
-
-I created these notes when I served as a teaching assistant for the 3rd core PhD microeconomics course at UCLA. The course itself covers various topics related to asymmetric information and mahecnism design.
 
 [Notes on Monotone Comparative Statics](pdf/mon_notes.pdf)
 
@@ -36,4 +33,5 @@ I created these notes when I served as a teaching assistant for the 3rd core PhD
 
 [Notes on Bayesian vs. Dominant Strategy Implementation](pdf/implement.pdf)
 
+ 
  

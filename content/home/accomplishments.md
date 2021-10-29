@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-05-01"
   date_end = ""
-  description = "[Assorted Notes](https://www.jkohlhepp.com/project/micro_notes/) || [Evaluations](pdf/evals_201c.pdf)"
+  description = "[Assorted Notes](project/micro_notes/) || [Evaluations](pdf/evals_201c.pdf)"
 [[item]]
   organization = "Teaching Assistant"
   organization_url = ""

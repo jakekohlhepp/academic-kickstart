@@ -8,6 +8,21 @@
   <meta name="generator" content="Source Themes Academic 4.8.0">
 
   
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'G-LRJC0G478S', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+
+  
 
   
   
@@ -219,6 +234,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LRJC0G478S"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-LRJC0G478S', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -228,8 +281,8 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu0f919aa7e396961a57d2d64bb388e2d5_4332_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0f919aa7e396961a57d2d64bb388e2d5_4332_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="/project/efficient-volunteer-matching/">
 
@@ -244,6 +297,9 @@
   
   
   <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@jakekohlhepp">
+  <meta property="twitter:creator" content="@jakekohlhepp">
   
   <meta property="og:site_name" content="Jacob Kohlhepp">
   <meta property="og:url" content="/project/efficient-volunteer-matching/">
@@ -297,7 +353,7 @@
     "name": "Jacob Kohlhepp",
     "logo": {
       "@type": "ImageObject",
-      "url": "/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
+      "url": "/images/icon_hu0f919aa7e396961a57d2d64bb388e2d5_4332_192x192_fill_lanczos_center_2.png"
     }
   },
   "description": "An app that uses volunteer preferences to match volunteers to tasks."
@@ -438,111 +494,125 @@
         
         
         
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#posts"><span>Posts</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
-          <a class="nav-link  active" href="/project/"><span>Projects</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/publication/"><span>Research</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#contact"><span>Contact</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
 
         <li class="nav-item">
           <a class="nav-link " href="/files/cv.pdf"><span>CV</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Research</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#accomplishments"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#experience"><span>Experience</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Other Projects</span></a>
         </li>
 
         
@@ -696,90 +766,6 @@
 
 
 
-<div class="share-box" aria-hidden="true">
-  <ul class="share">
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://twitter.com/intent/tweet?url=/project/efficient-volunteer-matching/&amp;text=Efficient%20Volunteer%20Matching" target="_blank" rel="noopener" class="share-btn-twitter">
-          <i class="fab fa-twitter"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://www.facebook.com/sharer.php?u=/project/efficient-volunteer-matching/&amp;t=Efficient%20Volunteer%20Matching" target="_blank" rel="noopener" class="share-btn-facebook">
-          <i class="fab fa-facebook"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="mailto:?subject=Efficient%20Volunteer%20Matching&amp;body=/project/efficient-volunteer-matching/" target="_blank" rel="noopener" class="share-btn-email">
-          <i class="fas fa-envelope"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/project/efficient-volunteer-matching/&amp;title=Efficient%20Volunteer%20Matching" target="_blank" rel="noopener" class="share-btn-linkedin">
-          <i class="fab fa-linkedin-in"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="whatsapp://send?text=Efficient%20Volunteer%20Matching%20/project/efficient-volunteer-matching/" target="_blank" rel="noopener" class="share-btn-whatsapp">
-          <i class="fab fa-whatsapp"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://service.weibo.com/share/share.php?url=/project/efficient-volunteer-matching/&amp;title=Efficient%20Volunteer%20Matching" target="_blank" rel="noopener" class="share-btn-weibo">
-          <i class="fab fa-weibo"></i>
-        </a>
-      </li>
-    
-  </ul>
-</div>
-
 
 
 
@@ -809,13 +795,13 @@
     <div class="media author-card content-widget-hr">
       
         
-        <img class="avatar mr-3 avatar-circle" src="/author/jacob-kohlhepp/avatar_hu99f28a8452e0fe14c2a7902334f944e7_894675_270x270_fill_q90_lanczos_center.jpg" alt="Jacob Kohlhepp">
+        <img class="avatar mr-3 avatar-square" src="/author/jacob-kohlhepp/avatar_hu25307d2233850e99d9a01a8c52c61f28_277922_270x270_fill_q90_lanczos_center.jpg" alt="Jacob Kohlhepp">
       
 
       <div class="media-body">
         <h5 class="card-title"><a href="/">Jacob Kohlhepp</a></h5>
-        <h6 class="card-subtitle">PhD Student in Economics</h6>
-        <p class="card-text">My research interests include individual labor economics and applied theory.</p>
+        <h6 class="card-subtitle">PhD Candidate in Economics</h6>
+        <p class="card-text">My research interests include labor economics and applied theory.</p>
         <ul class="network-icon" aria-hidden="true">
   
     
@@ -828,7 +814,7 @@
     
     
     <li>
-      <a href="mailto:jkohlhepp@ucla.edu." >
+      <a href="mailto:jkohlhepp@ucla.edu" >
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -915,9 +901,6 @@
 
 
 
-
-  
-  
 
 
 
@@ -1072,7 +1055,7 @@
   
 
   <p class="powered-by">
-    
+    © 2021 Jacob Kohlhepp
   </p>
 
   
