@@ -25,11 +25,11 @@ projects: []
 
 [Notes on Common Value Auctions](../../pdf/common_auctions.pdf)
 
-[Notes on Multitasking with harmful Effort](../../pdf/multi_notes.pdf)
+[Notes on Multitasking with Harmful Effort](../../pdf/multi_notes.pdf)
 
 [Lemons in Health Insurance](../../pdf/lemons.pdf)
 
-[Notes on Bayesian nash Equilibrium and Continuous Action Spence Signaling](../../pdf/bne_spence_notes.pdf)
+[Notes on Bayesian Nash Equilibrium and Continuous Action Spence Signaling](../../pdf/bne_spence_notes.pdf)
 
 [Notes on Bayesian vs. Dominant Strategy Implementation](../../pdf/implement.pdf)
 
