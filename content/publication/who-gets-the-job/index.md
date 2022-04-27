@@ -2,7 +2,7 @@
 title = "Delegated Recruitment and Hiring Distortions"
 
 # Date first published.
-date = "2021-09-22"
+date = "2022-04-27"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jacob Kohlhepp", "Stepan Aleksenko"]
