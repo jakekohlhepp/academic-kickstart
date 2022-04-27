@@ -20,7 +20,7 @@ publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = ""
-publication_short = ""
+publication_short = "R&R at *The Journal of Economic Theory*"
 
 # Abstract and optional shortened version.
 abstract = "We develop a model in which a principal delegates sequential search over uncertain objects to an agent. We use the model to analyze how recruiters influence the search for talent. During search, the recruiter does not learn worker productivity but only forms a belief characterized by an expectation and a variance. We demonstrate that delegation is equivalent to making the search technology less accurate. Delegation results in moral hazard with a multitasking flavor, where the recruiter wastes effort finding low-variance workers at the expense of high-expectation workers. As workers become more homogeneous with respect to productivity variance delegation becomes more efficient. Our results provide a theoretical connection between delegation and variance-based statistical discrimination."
