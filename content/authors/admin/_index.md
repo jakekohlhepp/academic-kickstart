@@ -21,9 +21,8 @@ organizations:
 bio: My research interests include labor economics and applied theory.
 
 interests:
-- Labor Economics
+- Labor and Applied Theory
 - Personnel and Organizational Economics
-- Applied Theory
 
 education:
   courses:
@@ -70,6 +69,8 @@ user_groups:
 - Visitors
 ---
 
-Thank you for visiting my website! I am a PhD candidate in economics at UCLA studying labor economics and applied theory. My research focuses on how human resource decisions within firms shape the labor market. I enjoy projects that involve capturing interesting theoretical forces with data. I will be on the 2022-2023 job market. My CV is available [here](files/cv.pdf).
+I am a PhD candidate in economics at UCLA. I will be on the 2022-2023 job market. My CV is available [here](files/cv.pdf).
+
+My research focuses on how human resource decisions within firms shape markets. I enjoy projects that involve capturing interesting theoretical forces with data. 
 
 I am a proud husband and father. My wife and I write a blog where we summarize each week of our marriage: [www.thekohlhepps.com](https://www.thekohlhepps.com). We document our journey navigating faith, careers, and starting a family.
