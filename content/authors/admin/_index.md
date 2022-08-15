@@ -73,4 +73,4 @@ I am a PhD candidate in economics at UCLA. I will be on the 2022-2023 job market
 
 My research focuses on how human resource decisions within firms shape markets. I enjoy projects that involve capturing interesting theoretical forces with data. 
 
-I am a proud husband and father. My wife and I write a blog where we summarize each week of our marriage: [www.thekohlhepps.com](https://www.thekohlhepps.com). We document our journey navigating faith, careers, and starting a family.
+I am a proud husband and father. My wife and I write a blog where we summarize each week of our marriage: [thekohlhepps.com](https://www.thekohlhepps.com). We document our journey navigating faith, careers, and starting a family.
