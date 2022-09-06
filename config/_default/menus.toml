@@ -22,14 +22,14 @@
   name = "Teaching"
   url = "#accomplishments"
   weight = 50
-[[main]]
-  name = "Experience"
-  url = "#experience"
-  weight = 60
-[[main]]
-  name = "Other Projects"
-  url = "#projects"
-  weight = 70
+#[[main]]
+#  name = "Experience"
+#  url = "#experience"
+#  weight = 60
+#[[main]]
+#  name = "Other Projects"
+#  url = "#projects"
+#  weight = 70
 
 
  
