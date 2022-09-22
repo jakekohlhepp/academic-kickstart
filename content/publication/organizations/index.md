@@ -1,5 +1,5 @@
 +++
-title = "A Theory of Firms as Competing Organizations with Evidence from the Beauty Industry"
+title = "Competition and the Internal Organization of Firms with Evidence from the Beauty Industry"
 
 # Date first published.
 date = "2022-05-31"
@@ -20,11 +20,10 @@ publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = ""
-publication_short = ""
+publication_short = "Job Market Paper"
 
 # Abstract and optional shortened version.
-abstract = "This paper studies the interaction between competition and the internal organization of firms using a new model and novel data. In the model, firms with different organizational efficiency choose their entire organization structure, including who to hire and the task-content of each worker's job, in order to compete in a differentiated product market. The model illustrates that firms face a quality-wage-complexity trade-off when choosing their organizational structure. I show the model features a unique equilibrium under testable condition, can be solved using a globally convergent algorithm and can be identified using a measure of organizational complexity. I use the model to study the beauty industry. Millions of task assignments across competing hair salons illustrate that organizational complexity is positively correlated with firm revenue, employment, and labor, consistent with the model. I estimate the model, and use it to study the impact of a counterfactual convergence of management practices and a counterfactual sales tax on hair services in Los Angeles."
-
+abstract = "This paper studies how task assignment decisions within the firm interact with products and labor markets outside the firm. Using data documenting the minute-by-minute assignment of millions of tasks to workers across competing salons, I show firms account for a large share of task variation, and the complexity of a firm's internal organization increases with revenue, employment, and prices. Based on these facts, I develop a model where firms with different internal organization costs choose how to assign workers with multidimensional skills to tasks in order to compete in a differentiated product market. An equivalence result allows the model to remain tractable from theoretical analysis through estimation. I estimate the model for Manhattan hair salons and study two counterfactual policies. Raising the minimum wage from $15 to $20 reallocates employment across salons and changes the task specialization of different worker types. These forces combine in equilibrium to generate negative wage spillovers for some workers and positive wage spillovers for others. Eliminating the sales tax on services improves service quality through increased task-specialization. This benefits workers through higher wages but reduces consumer welfare as price increases outpace quality improvements."
 # Featured image thumbnail (optional)
 #image_preview = ""
 
