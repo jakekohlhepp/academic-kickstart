@@ -66,3 +66,8 @@ image = "headers/bubbles-wide.jpg"
 caption = "My caption 😄"
 
 +++
+
+
+{{< details >}}
+Collapsed text
+{{< /details >}}
