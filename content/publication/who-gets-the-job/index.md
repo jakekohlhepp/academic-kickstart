@@ -39,8 +39,8 @@ projects = []
 
 # Links (optional).
 
-url_pdf = "pdf/recruit.pdf"
-url_preprint = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3905019"
+url_pdf = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3905019"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
