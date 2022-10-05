@@ -68,7 +68,5 @@ caption = "My caption 😄"
 
 +++
 
-{{< details >}}
 This paper studies how task assignment decisions within the firm interact with products and labor markets outside the firm. Using data documenting the minute-by-minute assignment of millions of tasks to workers across competing salons, I show firms account for a large share of task variation, and the complexity of a firm's internal organization increases with revenue, employment, and prices. Based on these facts, I develop a model where firms with different internal organization costs choose how to assign workers with multidimensional skills to tasks in order to compete in a differentiated product market. An equivalence result allows the model to remain tractable from theoretical analysis through estimation. I estimate the model for Manhattan hair salons and study two counterfactual policies. Raising the minimum wage from $15 to $20 reallocates employment across salons and changes the task specialization of different worker types. These forces combine in equilibrium to generate negative wage spillovers for some workers and positive wage spillovers for others. Eliminating the sales tax on services improves service quality through increased task-specialization. This benefits workers through higher wages but reduces consumer welfare as price increases outpace quality improvements.
-{{< /details >}}
 
