@@ -57,7 +57,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/kohlhepp_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,6 +71,6 @@ user_groups:
 
 I am a PhD candidate in economics at UCLA. I am an applied microeconomist with a background in theory and labor. My research agenda focuses on how human resource decisions within firms shape markets.
 
-I will be on the 2022-2023 job market. My CV is available [here](files/cv.pdf).
+I will be on the 2022-2023 job market. My CV is available [here](files/kohlhepp_cv.pdf).
 
 I am a proud husband and father. My wife and I write a blog where we summarize each week of our marriage [here](https://www.thekohlhepps.com).
