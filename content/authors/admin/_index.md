@@ -27,12 +27,12 @@ interests:
 education:
   courses:
   - course: PhD in Economics
-	institution: UCLA
-	year: 2023 (expected)
+    institution: UCLA
+    year: 2023 (Expected)
   - course: MA in Economics
     institution: UCLA
     year: 2020
-  - course: BA in Economics, BA in Political Science
+  - course: BA in Economics & Political Science
     institution: UCLA
     year: 2016
 
