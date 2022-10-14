@@ -73,5 +73,4 @@ I am a PhD candidate in economics at UCLA. I am an applied microeconomist with a
 
 I will be on the 2022-2023 job market. My CV is available [here](files/cv.pdf).
 
-#  I enjoy projects that involve capturing interesting theoretical forces with data. 
 I am a proud husband and father. My wife and I write a blog where we summarize each week of our marriage [here](https://www.thekohlhepps.com).
