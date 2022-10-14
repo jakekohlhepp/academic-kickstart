@@ -1,5 +1,5 @@
 +++
-title = "Tasks and the Inner Beauty of Firms"
+title = "The Inner Beauty of Firms"
 
 # Date first published.
 date = "2022-05-31"
