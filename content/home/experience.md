@@ -36,6 +36,6 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Los Angeles"
   date_start = "2020-08-25"
-  date_end = ""
+  date_end = "2021-03-01"
   description = ""
 +++

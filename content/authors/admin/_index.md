@@ -18,21 +18,21 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include labor economics and applied theory.
+bio: My research interests include labor economics and theory.
 
 interests:
-- Labor and Applied Theory
+- Labor and Theory
 - Personnel and Organizational Economics
 
 education:
   courses:
+  - course: PhD in Economics
+	institution: UCLA
+	year: 2023 (expected)
   - course: MA in Economics
     institution: UCLA
     year: 2020
-  - course: BA in Economics
-    institution: UCLA
-    year: 2016
-  - course: BA in Political Science
+  - course: BA in Economics, BA in Political Science
     institution: UCLA
     year: 2016
 
@@ -69,8 +69,9 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in economics at UCLA. I will be on the 2022-2023 job market. My CV is available [here](files/cv.pdf).
+I am a PhD candidate in economics at UCLA. I am an applied microeconomist with a background in theory and labor. My research agenda focuses on how human resource decisions within firms shape markets.
 
-My research focuses on how human resource decisions within firms shape markets. I enjoy projects that involve capturing interesting theoretical forces with data. 
+I will be on the 2022-2023 job market. My CV is available [here](files/cv.pdf).
 
+#  I enjoy projects that involve capturing interesting theoretical forces with data. 
 I am a proud husband and father. My wife and I write a blog where we summarize each week of our marriage [here](https://www.thekohlhepps.com).
