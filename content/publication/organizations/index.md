@@ -40,7 +40,7 @@ projects = []
 
 # Links (optional).
 
-url_pdf = ""
+url_pdf = "files/kohlhepp_jmp.pdf"
 url_preprint = ""
 url_code = "https://github.com/jakekohlhepp/internalorg"
 url_dataset = ""
