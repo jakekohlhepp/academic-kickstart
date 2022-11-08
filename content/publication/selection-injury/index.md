@@ -1,5 +1,5 @@
 +++
-title = "Individual Injury Risk and the Labor Supply of Traffic Officers"
+title = "Workplace Injury and the Labor Supply of Traffic Officers"
 
 # Date first published.
 date = "2021-10-01"
