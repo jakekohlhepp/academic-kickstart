@@ -69,8 +69,8 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in economics at UCLA. I am an applied microeconomist with a background in theory and labor. My research agenda focuses on how human resource decisions within firms shape markets.
+I am a 5th year PhD candidate in economics at UCLA. I am on the job market during the 2022-2023 academic year.
 
-I am on the job market during the 2022-2023 academic year.
+I am an applied microeconomist with a background in theory and labor. My research agenda focuses on how human resource decisions within firms shape markets.
 
 My CV is available [here](files/kohlhepp_cv.pdf). My job market paper is available [here](files/kohlhepp_jmp.pdf).
