@@ -69,7 +69,7 @@ user_groups:
 - Visitors
 ---
 
-I am a 5th year PhD candidate in economics at UCLA. I am on the job market during the 2022-2023 academic year.
+I am a 5th year PhD candidate in economics at UCLA. Starting this summer, I will be an assistant professor of economics and the John Stewart Fellow at UNC Chapel Hill.
 
 I am an applied microeconomist with a background in theory and labor. My research agenda focuses on how human resource decisions within firms shape markets.
 
