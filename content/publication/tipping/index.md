@@ -5,7 +5,7 @@ title = "Is Tipping Economically Relevant? Evidence from the Beauty Industry"
 date = "2021-04-05"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jacob Kohlhepp", "Daniel Ober-Reynolds"]
+authors = ["Jacob Kohlhepp"]
 
 # Publication type.
 # Legend:
@@ -43,7 +43,8 @@ url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
-url_slides = "pdf/tipping_slides.pdf"
+url_slides = "" 
+#pdf/tipping_slides.pdf
 url_video = ""
 url_poster = ""
 url_source = ""
