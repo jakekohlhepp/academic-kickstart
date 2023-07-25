@@ -10,25 +10,25 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Economics
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: UCLA
+- name: UNC Chapel Hill
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include labor economics and theory.
+bio: My research interests include labor economics and microeconomic theory.
 
 interests:
-- Labor and Theory
-- Personnel and Organizational Economics
+- Labor Economics (Personnel and Organizational)
+- Microeconomic Theory
 
 education:
   courses:
   - course: PhD in Economics
     institution: UCLA
-    year: 2023 (Expected)
+    year: 2023
   - course: MA in Economics
     institution: UCLA
     year: 2020
@@ -69,8 +69,6 @@ user_groups:
 - Visitors
 ---
 
-I am a 5th year PhD candidate in economics at UCLA. Starting this summer, I will be an assistant professor of economics and the John Stewart Fellow at UNC Chapel Hill.
-
-I am an applied microeconomist with a background in theory and labor. My research agenda focuses on how human resource decisions within firms shape markets.
+I am an assistant professor of economics and the John Stewart Fellow at University of North Carolina at Chapel Hill. I am an applied microeconomist with a background in theory and labor. My research agenda focuses on how human resource decisions within firms shape markets.
 
 My CV is available [here](files/kohlhepp_cv.pdf). My job market paper is available [here](files/kohlhepp_jmp.pdf).
