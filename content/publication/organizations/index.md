@@ -19,7 +19,7 @@ authors = ["Jacob Kohlhepp"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Job Market Paper"
+publication = "R&R at *The Journal of Political Economy*"
 publication_short = ""
 
 # Abstract and optional shortened version.
