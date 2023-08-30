@@ -69,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-I am an assistant professor of economics and the John Stewart Fellow at University of North Carolina at Chapel Hill. I am an applied microeconomist with a background in theory and labor. My research agenda focuses on how human resource decisions within firms shape markets.
+I am an assistant professor of economics and the John Stewart Fellow at the University of North Carolina at Chapel Hill. I am an applied microeconomist with a background in theory and labor. My research agenda focuses on how human resource decisions within firms shape markets.
 
-My CV is available [here](files/kohlhepp_cv.pdf). My job market paper is available [here](files/kohlhepp_jmp.pdf).
+My CV is available [here](files/kohlhepp_cv.pdf). My wife and I write a blog about each week of our life together since we got married, which you can read [here](https://thekohlhepps.com).
