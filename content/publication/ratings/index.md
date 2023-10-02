@@ -2,7 +2,7 @@
 title = "Consumer Reviews and Dynamic Price Signaling"
 
 # Date first published.
-date = "2023-03-10"
+date = "2023-10-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Stepan Aleksenko", "Jacob Kohlhepp"]

@@ -2,10 +2,10 @@
 title = "Delegated Recruitment and Hiring Distortions"
 
 # Date first published.
-date = "2022-04-27"
+date = "2023-09-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jacob Kohlhepp", ["Stepan Aleksenko"](https://www.saleksenko.com/i)]
+authors = ["Jacob Kohlhepp", "Stepan Aleksenko"]
 
 # Publication type.
 # Legend:
@@ -53,10 +53,10 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does the content use math formatting?
-math = true
+math = false
 
 # Does the content use source code highlighting?
-highlight = true
+highlight = false
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
