@@ -5,7 +5,7 @@ title = "Delegated Recruitment and Hiring Distortions"
 date = "2022-04-27"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jacob Kohlhepp", "Stepan Aleksenko"]
+authors = ["Jacob Kohlhepp", ["Stepan Aleksenko"](https://www.saleksenko.com/i)]
 
 # Publication type.
 # Legend:
@@ -66,4 +66,4 @@ caption = "My caption 😄"
 
 +++
 
-We develop a model in which a principal delegates sequential search over uncertain objects to an agent. We use the model to analyze how recruiters influence the search for talent. During search, the recruiter does not learn worker productivity but only forms a belief characterized by an expectation and a variance. We demonstrate that delegation is equivalent to making the search technology less accurate. Delegation results in moral hazard with a multitasking flavor, where the recruiter wastes effort finding low-variance workers at the expense of high-expectation workers. As workers become more homogeneous with respect to productivity variance delegation becomes more efficient. Our results provide a theoretical connection between delegation and variance-based statistical discrimination.
+Firms increasingly rely on recruiters to find talent. Recruiters are typically paid using refund contracts, which specify a payment upon a successful candidate suggestion and hire, and a refund if a candidate is hired but leaves for any reason during an initial period of employment. We study how recruiters and refund contracts shape talent selection. When a firm needs to fill a position, it engages a recruiter who observes private signals about a candidate's productivity and decides whether to suggest this candidate to the firm. There is variation in both the candidates' productivity and in the quality of information available about productivity. We characterize the unique equilibrium and show that refund contracts induce artificial risk aversion in both the recruiter's suggestion strategy and the firm's hiring strategy relative to a first-best benchmark. This risk aversion leads to candidates with lower expected productivity but more informative signals ("safe bets") being favored over candidates with higher expected productivity but less informative signals ("diamonds in the rough"). Our findings imply that delegated recruitment generates statistical discrimination.
