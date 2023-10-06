@@ -2,7 +2,7 @@
 title = "The Inner Beauty of Firms"
 
 # Date first published.
-date = " 2023-03-28"
+date = "2023-10-06"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jacob Kohlhepp"]
