@@ -5,7 +5,7 @@ title = "Workplace Injury and Labor Supply within an Organization"
 date = "2021-10-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jacob Kohlhepp"]
+authors = ["Jacob Kohlhepp", "Robert McDonough"]
 
 # Publication type.
 # Legend:
@@ -66,4 +66,4 @@ image = "headers/bubbles-wide.jpg"
 caption = "My caption 😄"
 
 +++
-In this paper, I study how voluntary labor supply decisions within an organization impact workplace injury using novel data on the payroll and workers' compensation claims of Los Angeles traffic officers. I use the leave taken by coworkers as an instrument to estimate the causal effect of daily labor supply decisions on workplace injury. Self-selection via voluntary labor supply reduces injuries by 48 percent compared to the underlying injury rate. The majority of the effect is driven by private factors, implying decentralized overtime assignment mechanisms like shift auctions can be used to reduce injury rates.
+In this paper, I study how voluntary labor supply decisions within an organization impact workplace injury using novel data on the payroll and workers' compensation claims of Los Angeles traffic officers. I use the leave taken by coworkers as an instrument to estimate the causal effect of daily labor supply decisions on workplace injury. Self-selection via voluntary labor supply reduces injuries by 48 percent compared to the underlying injury rate. I decompose selection into a predictable component that could be accomplished via direct assignment on observables by a manager, and a private component known only to the individual worker. I show the vast majority of the effect is driven by the private component, implying decentralized overtime assignment mechanisms like shift auctions are an effective way to reduce organizational injury rates.
