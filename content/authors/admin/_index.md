@@ -23,6 +23,7 @@ bio: My research interests include labor economics and microeconomic theory.
 interests:
 - Labor Economics (Personnel and Organizational)
 - Microeconomic Theory
+-Industrial Organization
 
 education:
   courses:
