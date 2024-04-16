@@ -9,7 +9,7 @@ projects: []
 ---
 
 ## Lecturer
-**ECON 490: Compensation in Organizations** (UNC Chapel Hill Summer 2021) 
+**ECON 490: Compensation in Organizations** (UNC Chapel Hill Spring 2024) 
 
 **ECON 101: Microeconomic Theory II** (UCLA Summer 2021) 
 

@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2024-01-08"
   date_end = ""
-  description = ""
+  description = "[Teaching Materials](https://github.com/jakekohlhepp/comp_orgs_490)"
 [[item]]
   organization = "Instructor - UCLA"
   organization_url = ""
