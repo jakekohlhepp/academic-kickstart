@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:jkohlhepp@ucla.edu
+  link: mailto:kohlhepp@unc.edu
 - icon: twitter
   icon_pack: fab
   link: https://www.twitter.com/jakekohlhepp
