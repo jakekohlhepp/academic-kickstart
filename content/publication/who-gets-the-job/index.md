@@ -2,10 +2,10 @@
 title = "Delegated Recruitment and Hiring Distortions"
 
 # Date first published.
-date = "2023-09-01"
+date = "2024-05-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jacob Kohlhepp", "Stepan Aleksenko"]
+authors = ["Stepan Aleksenko","Jacob Kohlhepp"]
 
 # Publication type.
 # Legend:

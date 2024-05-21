@@ -2,7 +2,7 @@
 title = "Consumer Reviews and Dynamic Price Signaling"
 
 # Date first published.
-date = "2023-10-01"
+date = "2023-10-13"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Stepan Aleksenko", "Jacob Kohlhepp"]
@@ -25,7 +25,7 @@ publication_short = ""
 # Abstract and optional shortened version.
 abstract = ""
 # Featured image thumbnail (optional)
-#image_preview = "recruiter_graph.png"
+#image_preview = ""
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -43,7 +43,7 @@ url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
-url_slides = ""
+url_slides = "https://www.saleksenko.com/uploads/1/4/6/5/146572502/jm_slides__3_.pdf"
 url_video = ""
 url_poster = ""
 url_source = ""
@@ -66,4 +66,4 @@ caption = "My caption 😄"
 
 +++
 
-Pricing decisions are crucial for managing a firm's reputation and maximizing profits. Consumer reviews reflect not only product quality but also a product’s price, with more favorable reviews for low-priced products. We study whether such review behavior can induce firms to manipulate the review process by underpricing their product (below current consumers' willingness to pay). We introduce an equilibrium model with a privately informed firm repeatedly selling its product to uninformed but rational consumers who learn about product quality from past reviews and current prices. We show that underpricing can arise only at low levels of reputation, and then only under a specific condition on consumers' utility shocks distribution, which we fully characterize. Surprisingly, rating manipulation unambiguously benefits consumers, since it operates via underpricing.
+Pricing decisions are crucial for managing a firm's reputation and maximizing profits. Consumer reviews reflect both the product quality and its price, with more favorable reviews being left when a product is priced lower. We study whether such review behavior can induce a firm to manipulate the review process by underpricing its product, or pricing it below current consumers' willingness to pay. We introduce an equilibrium model with a privately informed firm repeatedly selling its product to uninformed but rational consumers who learn about the quality of the product from past reviews and current prices. We show that underpricing can arise only when the firm reputation is low and then only under a specific condition on consumers' taste shock distribution, which we fully characterize. Rating manipulation unambiguously benefits consumers, because it operates via underpricing.
