@@ -1,5 +1,5 @@
 +++
-title = "Delegated Recruitment and Hiring Distortions"
+title = "Delegated Recruitment and Statistical Discrimination"
 
 # Date first published.
 date = "2024-05-01"

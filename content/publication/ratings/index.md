@@ -1,5 +1,5 @@
 +++
-title = "Consumer Reviews and Dynamic Price Signaling"
+title = "Reputational Underpricing"
 
 # Date first published.
 date = "2023-10-13"
