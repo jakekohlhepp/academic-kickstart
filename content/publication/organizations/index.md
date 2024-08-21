@@ -2,7 +2,7 @@
 title = "The Inner Beauty of Firms"
 
 # Date first published.
-date = "2023-10-06"
+date = "2024-08-21"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jacob Kohlhepp"]
@@ -69,4 +69,4 @@ caption = "My caption 😄"
 
 +++
 
-This paper studies how the internal organization of firms interacts with labor and product markets. I analyze millions of task assignments across hundreds of salons using data from a software company. I develop a measure of organization complexity, which is the amount of information required to implement a given task assignment. Complexity varies significantly across salons. More complex salons have higher revenues, employees, prices and return customers. Based on these facts, I develop a model where oligopolistic firms with different organization costs choose their internal structure. Complexity is costly, but it allows firms to improve product quality by better matching workers with multidimensional skills to tasks. I characterize the profit-maximizing organization as solving a rational inattention problem. This allows me to identify and estimate the model for Manhattan hair salons. A counterfactual sales tax cut increases task-specialization and therefore the productivity of all workers. A counterfactual increase in the minimum wage increases specialization for minimum wage workers, decreases specialization for non-minimum wage workers, and causes both positive and negative wage spillovers which are not monotone in initial wage. These outcomes occur because internal structure is a choice made by organizationally unique firms.
+This paper uses millions of task assignments across hundreds of hair salons from management software to study the connection between task assignment within the establishment and productivity. There is significant dispersion in productivity and internal task specialization, and a strong association between the two: The top 25 percent of salon-quarters in terms of specialization are on average 68 percent more productive than the bottom 25 percent. I construct a model where organizationally unique firms choose how to assign tasks to workers with multidimensional skills in product and labor market equilibrium. Heterogeneity in task specialization is micro-founded by costly communication within the firm. I prove the model, including worker skills and firm-specific organization costs, is constructively identified from task assignments, prices and market shares. I consider four counterfactual policies: a diffusion of management practices, a sales tax increase, an increase in market concentration, and immigration. Allowing salons to internally reorganize alters the industry-wide productivity effects of economic shocks, in some cases reversing the direction.
