@@ -16,11 +16,11 @@ authors = ["Stepan Aleksenko","Jacob Kohlhepp"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = ""
-publication_short = "Conditionally Accepted at *The Journal of Economic Theory*"
+publication_short = "Accepted at *The Journal of Economic Theory*"
 
 # Abstract and optional shortened version.
 abstract = ""
