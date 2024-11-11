@@ -74,6 +74,5 @@ I am an assistant professor of economics and the John Stewart Fellow at the Univ
 
 My research agenda focuses on how human resource decisions within firms shape markets, but this is more of a common thread than a rule. I believe an idea is worth pursuing if it feels like magic and truth at the same time.
 
-**UPDATE:** I will be presenting "The Inner Beauty of Firms" at the "Research With and Within Organizations" conference at ZEW in September and the Organizational Economics Seminar at MIT Sloan in October.
-
+**UPDATE:** "Delegated Recruitment and Statistical Discrimination" has been accepted. I will be presenting at the University of Rochester Simon School of Business in December.
 
