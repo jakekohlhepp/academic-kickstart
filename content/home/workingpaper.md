@@ -1,13 +1,13 @@
 +++
 # A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
+# This section displays recent working papers from `content/publication/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 35  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
-title = "Publications and Accepted Papers"
+title = "Working Papers"
 subtitle = ""
 
 [content]
@@ -27,7 +27,7 @@ subtitle = ""
   [content.filters]
     tag = ""
     category = ""
-    publication_type = "2"
+    publication_type = "3"
     author = ""
     exclude_featured = false
   
