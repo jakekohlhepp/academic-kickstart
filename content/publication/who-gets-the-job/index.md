@@ -5,7 +5,7 @@ title = "Delegated Recruitment and Statistical Discrimination"
 date = "2024-11-20"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [[Stepan Aleksenko](https://www.saleksenko.com),"Jacob Kohlhepp"]
+authors = ["Stepan Aleksenko","Jacob Kohlhepp"]
 
 # Publication type.
 # Legend:
