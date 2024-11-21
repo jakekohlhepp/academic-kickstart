@@ -2,7 +2,7 @@
 title = "Delegated Recruitment and Statistical Discrimination"
 
 # Date first published.
-date = "2024-05-01"
+date = "2024-11-20"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Stepan Aleksenko","Jacob Kohlhepp"]
@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = ""
-publication_short = "Accepted at *The Journal of Economic Theory*"
+publication_short = "Forthcoming at *The Journal of Economic Theory*"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -50,7 +50,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+ url_custom = [{name = "Official Link", url = "https://www.sciencedirect.com/science/article/abs/pii/S002205312400142X"}]
 
 # Does the content use math formatting?
 math = false
