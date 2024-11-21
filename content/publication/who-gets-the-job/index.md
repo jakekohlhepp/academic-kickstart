@@ -5,7 +5,7 @@ title = "Delegated Recruitment and Statistical Discrimination"
 date = "2024-11-20"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Stepan Aleksenko","Jacob Kohlhepp"]
+authors = [[Stepan Aleksenko](https://www.saleksenko.com),"Jacob Kohlhepp"]
 
 # Publication type.
 # Legend:
@@ -38,7 +38,7 @@ projects = []
 
 # Links (optional).
 
-url_pdf = "pdf/recruiter_preprint"
+url_pdf = "pdf/recruiter_preprint.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -46,12 +46,12 @@ url_project = ""
 url_slides = "pdf/slides_recruiting.pdf"
 url_video = ""
 url_poster = ""
-url_source = ""https://www.sciencedirect.com/science/article/abs/pii/S002205312400142X""
+url_source = "https://www.sciencedirect.com/science/article/abs/pii/S002205312400142X"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Official Link", url = ""}]
-[Link text](https://website-name.com)
+
 # Does the content use math formatting?
 math = false
 
