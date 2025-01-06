@@ -42,7 +42,7 @@ projects = []
 url_pdf = "pdf/selection_risk.pdf"
 url_preprint = ""
 url_code = "https://github.com/jakekohlhepp/selection_injury"
-url_dataset = "files/traffic_officer_data.zip"
+url_dataset = "https://drive.google.com/file/d/1sagxWTnkwyi1J8Z6sX0PUPZ1JjMzACKR/view?usp=sharing"
 url_project = ""
 url_slides = "pdf/slides_selection_risk.pdf"
 url_video = ""
