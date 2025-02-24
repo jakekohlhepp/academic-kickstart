@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = ""
-publication_short = "Forthcoming at *The Journal of Economic Theory*"
+publication_short = "*The Journal of Economic Theory*"
 
 # Abstract and optional shortened version.
 abstract = ""
