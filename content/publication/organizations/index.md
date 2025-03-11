@@ -2,7 +2,7 @@
 title = "The Inner Beauty of Firms"
 
 # Date first published.
-date = "2024-08-21"
+date = "2025-03-11"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jacob Kohlhepp"]
@@ -69,4 +69,5 @@ caption = "My caption 😄"
 
 +++
 
-This paper uses millions of task assignments across hundreds of hair salons from management software to study the connection between task assignment within the establishment and productivity. There is significant dispersion in productivity and internal task specialization, and a strong association between the two: The top 25 percent of salon-quarters in terms of specialization are on average 68 percent more productive than the bottom 25 percent. I construct a model where organizationally unique firms choose how to assign tasks to workers with multidimensional skills in product and labor market equilibrium. Heterogeneity in task specialization is micro-founded by costly communication within the firm. I prove the model, including worker skills and firm-specific organization costs, is constructively identified from task assignments, prices and market shares. I consider four counterfactual policies: a diffusion of management practices, a sales tax increase, an increase in market concentration, and immigration. Allowing salons to internally reorganize alters the industry-wide productivity effects of economic shocks, in some cases reversing the direction.
+
+Using millions of task assignments from salon management software, I find significant establishment-level dispersion in labor productivity and internal task specialization and a strong association between the two that is unexplained by establishment size. The 25% most specialized salon-quarters  are on average 68% more productive than the bottom 25%.  To rationalize these facts, I identify and estimate a model where competing firms assign tasks to workers with multidimensional skills in light of firm-specific coordination costs. Without internal reorganization, immigration of low-wage workers into Los Angeles County reduces labor productivity by 1.4%. With internal reorganization, labor productivity rises by 2.2%.
