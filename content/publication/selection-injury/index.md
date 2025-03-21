@@ -1,5 +1,5 @@
 +++
-title = "Internal Labor Markets and Workplace Injury"
+title = "Workplace Injury and Labor Supply within an Organization"
 
 # Date first published.
 date = "2021-10-01"
@@ -66,4 +66,6 @@ image = "headers/bubbles-wide.jpg"
 caption = "My caption 😄"
 
 +++
-In this paper, we study how an internal labor market influences workplace injury using novel data on the payroll and workers' compensation claims of Los Angeles traffic officers. We use the leave take by coworkers at the same location as an instrument to identify the causal relationship between injury and daily labor supply. Self-selection via daily labor supply decisions reduces the organization-wide injury rate by 48 percent compared to if workers were randomly assigned to work. The majority of the selection effect cannot be predicted by observables, therefore individual choice is crucial in mitigating workplace injury.  These results imply that internal labor markets can be designed to further reduce injury, for example via shift auctions where the officer who bids the lowest wage receives the shift.
+In this paper, I study how voluntary labor supply decisions within an organization impact workplace injury using novel data on the payroll and workers’ compensation
+claims of Los Angeles traffic officers. I use the leave taken by coworkers as an instrument to estimate the causal effect of daily labor supply decisions on workplace injury. Self selection via voluntary labor supply reduces injuries by 48 percent compared to the
+underlying injury rate. I decompose selection into a predictable component that could be accomplished via direct assignment on observables by a manager, and a private component known only to the individual worker. I show the vast majority of the effect is driven by the private component, implying decentralized overtime assignment mechanisms like shift auctions are an effective way to reduce organizational injury rates.
