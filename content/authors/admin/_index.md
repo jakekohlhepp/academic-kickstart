@@ -74,5 +74,5 @@ I am an assistant professor of economics and the John Stewart Fellow at the Univ
 
 My research agenda focuses on how human resource decisions within firms shape markets, but this is more of a common thread than a rule. I believe an idea is worth pursuing if it feels like magic and truth at the same time.
 
-**NEWS:**  My paper ["The Inner Beauty of Firms"](https://www.jkohlhepp.com/publication/organizations/) was awarded [the Oliver Williamson Best Conference Paper Award](https://sioe.org/news/inner-beauty-firms-organization-matters) by the Society of Institutional and Organizational Economics.
+**NEWS:**  I will present ["The Inner Beauty of Firms"](https://www.jkohlhepp.com/publication/organizations/) at the Cowles Summer Conference at Yale SOM.
 
