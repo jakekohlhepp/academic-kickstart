@@ -41,7 +41,7 @@ projects = []
 
 url_pdf = "pdf/wheel_overtime_draft.pdf"
 url_preprint = ""
-url_code = ""
+url_code = "https://github.com/jakekohlhepp/wheel_overtime"
 url_dataset = "https://drive.google.com/file/d/1sagxWTnkwyi1J8Z6sX0PUPZ1JjMzACKR/view?usp=sharing"
 url_project = ""
 url_slides = ""
