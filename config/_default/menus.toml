@@ -24,7 +24,7 @@
   weight = 50
 [[main]]
   name = "Useful Links"
-  url = "projects/useful_links"
+  url = "https://www.jkohlhepp.com/project/useful_links/"
   weight = 55
 #[[main]]
 #  name = "Experience"
