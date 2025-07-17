@@ -2,7 +2,7 @@
 title = "Workplace Injury and Labor Supply within an Organization"
 
 # Date first published.
-date = "2021-10-01"
+date = "2024-01-24"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jacob Kohlhepp", "Robert McDonough"]
@@ -20,7 +20,7 @@ publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
 publication = ""
-publication_short = "Reject & Resubmit @ Journal of Labor Economics"
+publication_short = "Reject & Resubmit, Journal of Labor Economics"
 
 # Abstract and optional shortened version.
 abstract = ""
