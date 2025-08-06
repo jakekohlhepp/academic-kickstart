@@ -20,7 +20,7 @@ publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
 publication = ""
-publication_short = ""
+publication_short = "NEW"
 
 # Abstract and optional shortened version.
 abstract = ""

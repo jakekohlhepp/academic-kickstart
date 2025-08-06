@@ -74,5 +74,4 @@ I am an assistant professor of economics and the John Stewart Fellow at the Univ
 
 My research agenda focuses on how human resource decisions within firms shape markets, but this is more of a common thread than a rule. I believe an idea is worth pursuing if it feels like magic and truth at the same time.
 
-**NEWS:**  I will present ["The Inner Beauty of Firms"](https://www.jkohlhepp.com/publication/organizations/) at the Cowles Summer Conference at Yale SOM.
-
+**NEWS:**  [Robert McDonough](https://robmcdonough.com/) and I have released our new paper ["The Wheel of (Over)Time"](https://www.jkohlhepp.com/pdf/wheel_overtime_draft.pdf). Check it out!
