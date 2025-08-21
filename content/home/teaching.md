@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2024-01-08"
   date_end = ""
-  description = "[Teaching Materials](https://github.com/jakekohlhepp/comp_orgs_490)    -  Student Evals: [Maymester 2025](pdf/econ490_maymester_evals.pdf) - [Spring 2025](pdf/spring2025_student_evals.pdf) - [Spring 2024 - I](pdf/econ490_spring2024_evals1.pdf) - [Spring 2024](pdf/econ490_spring2024_evals2.pdf)" 
+  description = "[Teaching Materials](https://github.com/jakekohlhepp/comp_orgs_490)    -  Student Evals: [Maymester 2025](pdf/econ490_maymester_evals.pdf) - [Spring 2025](pdf/spring2025_student_evals.pdf) - [Spring 2024 (I)](pdf/econ490_spring2024_evals1.pdf) - [Spring 2024 (II)](pdf/econ490_spring2024_evals2.pdf)" 
 [[item]]
   organization = "Instructor - UCLA"
   organization_url = ""
