@@ -2,7 +2,7 @@
 title = "Is Tipping Incentive Relevant?"
 
 # Date first published.
-date = "2021-04-05"
+date = "2025-09-07"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jacob Kohlhepp"]
@@ -19,7 +19,7 @@ authors = ["Jacob Kohlhepp"]
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "NEW"
 publication_short = ""
 
 # Abstract and optional shortened version.
