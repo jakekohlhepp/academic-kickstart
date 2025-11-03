@@ -2,7 +2,7 @@
 title = "The Inner Beauty of Firms"
 
 # Date first published.
-date = "2025-06-30"
+date = "2025-11-03"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jacob Kohlhepp"]
@@ -20,7 +20,7 @@ publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
 publication = ""
-publication_short = "NEW VERSION"
+publication_short = "Revise & Resubmit, Review of Economic Studies"
 
 # Abstract and optional shortened version.
 abstract = ""
