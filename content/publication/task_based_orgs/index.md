@@ -1,8 +1,8 @@
 +++
-title = "A Theory of Task-Based Organizations"
+title = "Management in Task-Based Organization"
 
 # Date first published.
-date = "2024-02-24"
+date = "2025-02-24"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jacob Kohlhepp", "Malayvardhan Prajapati"]
@@ -16,11 +16,11 @@ authors = ["Jacob Kohlhepp", "Malayvardhan Prajapati"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
 publication = ""
-publication_short = ""
+publication_short = "Draft upon request"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -66,5 +66,5 @@ caption = "My caption 😄"
 
 +++
 
-This paper's contribution is to explicitly model how finite sequences of tasks are assigned to a finite set of workers by a manager who must take into account internal communication. In most task-based models, it is assumed that time can be allocated smoothly. We show that with sufficiently many tasks, this approximation is essentially without loss, and the amount of information that must be communicated under any cost-minimizing organization asymptotically becomes proportional to the mutual information. The proof illustrates that this occurs because optimal organizations focus on a set of typical sequences of tasks while essentially ignoring all others. This rationalizes the idea of core competencies from the management literature. A surprising implication is that if we consider management as an input to production, it eventually has constant returns to scale.
+This paper provides a microfoundation for the Shannon mutual information as a measure of management in organizations that must complete many tasks. We propose a model where an organization must assign an arbitrarily long sequence of tasks of different types to workers with different skills. Assigning tasks to the best suited worker results in faster production and a lower wage bill but requires greater management, measured as the number of contingency plans that must be developed. We show management is initially increasing returns to scale, but eventually become constant returns to scale and equal to the number of tasks multiplied by a constant which is based on Shannon mutual information. This occurs because the optimal design of large organizations involves core competencies: the organization develops a relatively small number of contingency plans that perform well on a relatively small number of distinct task sequences. As optimal organizations grow, the number of core competencies often become a vanishingly small fraction of the total number of possible sequences, but the contingency plans account for   the realized sequence with probability approaching one.
 
