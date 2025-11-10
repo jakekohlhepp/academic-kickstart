@@ -23,7 +23,7 @@ publication = ""
 publication_short = "Revise & Resubmit, *Review of Economic Studies*"
 
 # Abstract and optional shortened version.
-abstract = "Using millions of task assignments from salon management software, I find significant establishment-level dispersion in labor productivity and internal task specialization and a strong association between the two that is unexplained by establishment size. The 25% most specialized salon-quarters are on average 68% more productive than the bottom 25%. To rationalize these facts, I identify and estimate a model where competing firms assign tasks to workers with multidimensional skills in light of firm-specific organization costs. I show that accounting for task specialization can qualitatively change the productivity implications of economic shocks. Without internal reorganization, immigration of low-wage workers into Los Angeles County provides a competitive advantage to less productive salons, replacing specialized with generalist jobs and reducing labor productivity by 1.0%. With internal reorganization, all types of salons adjust to incorporate immigrant skills, prices fall and market shares rise at most salons, and specialized jobs are created increasing labor productivity by 1.4%."
+abstract = ""
 abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
@@ -70,3 +70,4 @@ caption = "My caption 😄"
 +++
 
 
+Using millions of task assignments from salon management software, I find significant establishment-level dispersion in labor productivity and internal task specialization and a strong association between the two that is unexplained by establishment size. The 25% most specialized salon-quarters are on average 68% more productive than the bottom 25%. To rationalize these facts, I identify and estimate a model where competing firms assign tasks to workers with multidimensional skills in light of firm-specific organization costs. I show that accounting for task specialization can qualitatively change the productivity implications of economic shocks. Without internal reorganization, immigration of low-wage workers into Los Angeles County provides a competitive advantage to less productive salons, replacing specialized with generalist jobs and reducing labor productivity by 1.0%. With internal reorganization, all types of salons adjust to incorporate immigrant skills, prices fall and market shares rise at most salons, and specialized jobs are created increasing labor productivity by 1.4%.
