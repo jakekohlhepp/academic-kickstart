@@ -20,7 +20,7 @@ publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
 publication = ""
-publication_short = "Revise & Resubmit, Review of Economic Studies"
+publication_short = "Revise & Resubmit, *Review of Economic Studies*"
 
 # Abstract and optional shortened version.
 abstract = ""
