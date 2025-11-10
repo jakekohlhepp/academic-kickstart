@@ -2,7 +2,7 @@
 title = "Management in Task-Based Organization"
 
 # Date first published.
-date = "2024-01-24"
+date = "2024-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jacob Kohlhepp", "Malayvardhan Prajapati"]
