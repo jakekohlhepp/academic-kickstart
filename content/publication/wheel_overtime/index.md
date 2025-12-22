@@ -46,7 +46,7 @@ url_code = "https://github.com/jakekohlhepp/wheel_overtime"
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = ""
+url_video = "https://www.youtube.com/live/0L-SNNMG64A?si=dLhTqWo6NXXaqEAb&t=22129"
 url_poster = ""
 url_source = ""
 
