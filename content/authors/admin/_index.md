@@ -73,5 +73,3 @@ user_groups:
 I am an assistant professor of economics and the John Stewart Fellow at the University of North Carolina at Chapel Hill. I am an applied microeconomist with a background in theory and labor. My CV is available [here](files/kohlhepp_cv.pdf). 
 
 My research agenda focuses on how human resource decisions within firms shape markets, but this is more of a common thread than a rule. I believe an idea is worth pursuing if it feels like magic and truth at the same time.
-
-**NEWS:**  I will be presenting ["The Wheel of (Over)Time"](https://www.jkohlhepp.com/pdf/wheel_overtime_draft.pdf) at the Fall Meeting of NBER Labor Studies at Stanford.
