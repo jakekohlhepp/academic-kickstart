@@ -5,7 +5,7 @@ title = "Dynamic Labor Supply in Organizational Equilibrium"
 date = "2024-12-09"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [Jacob Kohlhepp"]
+authors = ["Jacob Kohlhepp"]
 
 # Publication type.
 # Legend:
