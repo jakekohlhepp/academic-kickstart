@@ -2,7 +2,7 @@
 title = "Organizing the Production of Healthcare"
 
 # Date first published.
-date = "2024-12-09"
+date = "2026-03-23"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jacob Kohlhepp", "Pauline Mourot"]

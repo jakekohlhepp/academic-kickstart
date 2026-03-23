@@ -1,8 +1,8 @@
 +++
-title = "Organizing the Production of Healthcare"
+title = "Hours Determine "
 
 # Date first published.
-date = "2024-12-09"
+date = "2026-03-23"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Pauline Carry","Jacob Kohlhepp", "Simon Quach"]
