@@ -1,5 +1,5 @@
 +++
-title = "Hours Determine "
+title = "Hours Determination in the US Labor Market"
 
 # Date first published.
 date = "2026-03-23"
