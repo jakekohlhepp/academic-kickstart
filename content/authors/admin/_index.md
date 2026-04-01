@@ -71,5 +71,7 @@ user_groups:
 ---
 
 I am an assistant professor of economics and the John Stewart Fellow at the University of North Carolina at Chapel Hill. I am an applied microeconomist with a background in theory and labor. My CV is available [here](files/kohlhepp_cv.pdf). My research agenda focuses on how human resource decisions within firms shape markets, but this is more of a common thread than a rule. I believe an idea is worth pursuing if it feels like magic and truth at the same time.
-**NEWS:** I am teaching a 2.5-week version of my course ``Econ 490: Compensation in Organizations" during the Maymester. For more details check out this [flyer)(files/maymester_flyer.html).
+
+**NEWS:** I am teaching a 2.5-week version of my course "Econ 490: Compensation in Organizations" during the Maymester. For more details check out this [flyer](files/maymester_flyer.html).
+
 **NEWS:** You can RSVP for the Triangle Applied Microeconomics Conference (TAMC) [here](https://ncsu.qualtrics.com/jfe/form/SV_3DAbLoI06TFRQ10). The program and details are [here](https://sites.google.com/view/tamc/home). 
