@@ -1,5 +1,5 @@
 +++
-title = "The Wheel of (Over)Time"
+title = "The Wheel of (Over)Time: Efficient Overtime Exchange via Coworker Networks"
 
 # Date first published.
 date = "2026-04-07"
