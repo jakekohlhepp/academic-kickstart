@@ -2,7 +2,7 @@
 title = "The Wheel of (Over)Time"
 
 # Date first published.
-date = "2025-07-15"
+date = "2026-04-07"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jacob Kohlhepp", "Robert McDonough"]
@@ -20,13 +20,13 @@ publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
 publication = ""
-publication_short = "NEW"
+publication_short = "UPDATED DRAFT"
 
 # Abstract and optional shortened version.
 abstract = ""
 
 # Featured image thumbnail (optional)
-image_preview = "images/01_07b_labor_supply.pdf"
+image_preview = ""
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -68,4 +68,4 @@ caption = "My caption 😄"
 
 +++
 
-In the United States public sector, there are many examples where overtime is allocated informally, and overtime earnings are concentrated among a small number of government workers. Is this government inefficiency driven by insider influence, or an efficient reflection of worker preferences? We study the Los Angeles Department of Transportation, where a few traffic officers earned more than \$100,000 in overtime over 1.5 years. A constantly rotating list called "the wheel" assigns overtime equally initially, but officers are allowed to informally trade. Using novel daily personnel records, we recover the position of the wheel as well as the time-varying network of potential relationships between officers. Officers are several times more likely to work overtime when they are well-connected to coworkers likely endowed with overtime. Nevertheless, overtime inequality primarily reflects underlying differences in preferences. Informal trading achieves 93.8% of the maximum possible allocative efficiency, or \$4.15 million more than random assignment. This is because the cost of accessing overtime is low and the informal trade network is encoded with the overtime preferences of officers. As a result, replacing  informal trading with formal auctions where officers bid wages has little impact on allocative efficiency, a modest 4.8% cost reduction for the government, and a 8.8% increase in overtime inequality.
+ In the US public sector, there are many examples where a few government workers earn large amounts from overtime. Is this government inefficiency driven by insider influence, or an efficient reflection of worker preferences? We study the Los Angeles Department of Transportation, where several traffic officers earned around $100,000 in overtime pay despite an ex ante equal system called "the wheel." We show that trade via informal networks achieves 93.6% of the maximum possible allocative efficiency. This illustrates a general idea: endogenous trading networks can create the conditions for a version of the Coase Theorem to hold.
