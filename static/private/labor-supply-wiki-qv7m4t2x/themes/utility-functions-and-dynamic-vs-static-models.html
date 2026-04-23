@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Utility functions and dynamic vs. static models | Labor Supply Wiki</title>
+  <meta name="description" content="A model-side guide to the utility functions, state variables, and static versus dynamic choices that sit underneath labor-supply estimates in the literature.">
+  <link rel="stylesheet" href="../assets/styles.css">
+</head>
+<body class="theme-body">
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="../index.html">Labor Supply Wiki</a>
+      <nav class="site-nav" aria-label="Primary">
+        <a href="../articles/index.html">Articles</a>
+        <a href="../themes/index.html">Themes</a>
+        <a href="../add-your-thoughts.html">Your Thoughts</a>
+      </nav>
+    </div>
+  </header>
+  <main class="page-shell">
+    
+            <section class="article-header">
+              <p class="eyebrow">Theme page</p>
+              <h1>Utility functions and dynamic vs. static models</h1>
+              <p class="lead">A model-side guide to the utility functions, state variables, and static versus dynamic choices that sit underneath labor-supply estimates in the literature.</p>
+            </section>
+            <section class="article-layout single-column">
+              <article class="prose">
+                <h2>Why this page exists</h2>
+<p>A lot of disagreement in the labor-supply literature is really disagreement about the model underneath the estimate. Two papers can both be credible and still speak past each other because one assumes a static hours choice and the other assumes a dynamic problem with state variables, adjustment costs, or fixed job packages.</p>
+<h2>Static models: the classic starting point</h2>
+<p>In a static model, the worker chooses labor supply for the current period by trading off consumption against leisure or hours disutility. Utility is often written as something like <code>u(c, h)</code> or <code>u(c, l)</code> where <code>l</code> is leisure. The basic appeal is clarity: if wages change today, how do hours or participation change today?</p>
+<p>This framework sits behind a lot of canonical tax-and-labor-supply work, including <a href="../articles/hausman-ruud-1984-family-labor-supply-with-taxes.html">Family Labor Supply with Taxes</a>. These models are often powerful for policy simulation, but they lean heavily on assumptions about utility shape, household aggregation, and whether workers can freely choose hours.</p>
+<h2>Dynamic models: labor supply with state variables</h2>
+<p>Dynamic models treat current work decisions as affecting the future. Once experience, human capital, promotions, search, health, or caregiving status matter tomorrow, the worker is solving more than a one-period optimization problem.</p>
+<ul><li><a href="../articles/blinder-weiss-1976-human-capital-and-labor-supply.html">Human Capital and Labor Supply: A Synthesis</a> is an early statement that labor supply and human-capital accumulation must be modeled jointly.</li><li><a href="../articles/macurdy-1981-life-cycle-labor-supply.html">An Empirical Model of Labor Supply in a Life-Cycle Setting</a> is the classic panel-data life-cycle estimate of intertemporal substitution.</li><li><a href="../articles/kleven-kreiner-larsen-sogaard-2025-dynamic-returns-to-effort.html">Micro versus Macro Labor Supply Elasticities: The Role of Dynamic Returns to Effort</a> is a modern example where effort today changes future wages and advancement.</li><li><a href="../articles/chen-ding-list-mogstad-2025-job-flexibility.html">Reservation Wages and Workers&#x27; Valuation of Job Flexibility</a> shows how dynamic modeling matters when reservation wages vary over time and workers repeatedly choose whether to work.</li></ul>
+<h2>Common utility-function choices in the literature</h2>
+<p>The same broad labor-supply question can be estimated with very different utility objects.</p>
+<ul><li>Separable consumption-leisure utility: common in static models because it keeps interpretation simple.</li><li>Intertemporally separable but dynamically linked utility: common in life-cycle models where the state evolves through assets, experience, or wages.</li><li>Household utility functions: used when spouses&#x27; choices are modeled jointly and taxes or care obligations interact inside the household.</li><li>Fixed-cost or participation-cost utility: used when entering work carries a discrete cost, which is often crucial for extensive-margin responses.</li><li>Discrete-choice job-package utility: used when workers choose among jobs or shifts with fixed hours, amenities, and scheduling rules rather than a smooth hours margin. <a href="../articles/dickens-lundberg-1993-hours-restrictions-and-labor-supply.html">Labor Supply with Hours Restrictions</a> is a clear benchmark here.</li></ul>
+<h2>Static versus dynamic is not just a technical detail</h2>
+<p>The model choice changes the elasticity object itself.</p>
+<ul><li>Static models are usually closest to short-run within-period substitution.</li><li>Dynamic models are usually needed when the researcher cares about reentry, retention, career effects, human-capital accumulation, or persistent caregiving and health shocks.</li><li>Discrete-choice models are often needed when the feasible set is lumpy because jobs come in packages.</li></ul>
+<p>That is why <a href="../articles/chetty-2012-bounds-on-elasticities.html">Bounds on Elasticities With Optimization Frictions</a> remains so important. Even if utility is well behaved, observed choices may still reflect friction, inattention, or coarse choice sets rather than the frictionless optimum.</p>
+<h2>A practical reading rule</h2>
+<p>When reading a labor-supply estimate, ask four questions first.</p>
+<ol><li>What is inside utility: only consumption and leisure, or also fixed costs, amenities, or household interactions?</li><li>Is the model static or dynamic?</li><li>What are the state variables: assets, wages, experience, children, health, or job matches?</li><li>Is the worker choosing smooth hours, participation, or among discrete job packages?</li></ol>
+<p>Those questions usually tell you more than the headline elasticity.</p>
+<h2>How this page fits with the rest of the wiki</h2>
+<p>This page is the model companion to <a href="../themes/estimation-strategies-and-relative-credibility.html">estimation strategies and relative credibility</a>. That page is about research design credibility. This page is about the behavioral structure underneath the estimate.</p>
+              </article>
+            </section>
+            <section class="section linked-section">
+              <div class="section-head">
+                <h2>Linked articles</h2>
+                <p>These are the pages currently carrying this theme.</p>
+              </div>
+              <div class="card-grid">
+                
+    <article class="card searchable-card" data-search="human capital and labor supply: a synthesis an early life-cycle model showing that labor supply and human-capital investment have to be studied together, not one at a time. foundations human capital life cycle theory">
+      <p class="eyebrow">Foundations - 1976</p>
+      <h3><a href="../articles/blinder-weiss-1976-human-capital-and-labor-supply.html">Human Capital and Labor Supply: A Synthesis</a></h3>
+      <p class="meta-line">Journal of Political Economy</p>
+      <p>An early life-cycle model showing that labor supply and human-capital investment have to be studied together, not one at a time.</p>
+      <div class="tag-row"><span class="tag">foundations</span><span class="tag">human capital</span><span class="tag">life cycle</span><span class="tag">theory</span></div>
+    </article>
+    
+    <article class="card searchable-card" data-search="an empirical model of labor supply in a life-cycle setting a classic life-cycle estimation paper that pushes labor-supply analysis toward panel-data methods and intertemporal substitution. foundations life cycle panel data frisch elasticity">
+      <p class="eyebrow">Foundations - 1981</p>
+      <h3><a href="../articles/macurdy-1981-life-cycle-labor-supply.html">An Empirical Model of Labor Supply in a Life-Cycle Setting</a></h3>
+      <p class="meta-line">Journal of Political Economy</p>
+      <p>A classic life-cycle estimation paper that pushes labor-supply analysis toward panel-data methods and intertemporal substitution.</p>
+      <div class="tag-row"><span class="tag">foundations</span><span class="tag">life cycle</span><span class="tag">panel data</span><span class="tag">frisch elasticity</span></div>
+    </article>
+    
+    <article class="card searchable-card" data-search="family labor supply with taxes a foundational tax-and-labor-supply paper that treats husbands&#x27; and wives&#x27; choices jointly instead of as separate problems. foundations family labor supply taxation deadweight loss">
+      <p class="eyebrow">Foundations - 1984</p>
+      <h3><a href="../articles/hausman-ruud-1984-family-labor-supply-with-taxes.html">Family Labor Supply with Taxes</a></h3>
+      <p class="meta-line">American Economic Review</p>
+      <p>A foundational tax-and-labor-supply paper that treats husbands&#x27; and wives&#x27; choices jointly instead of as separate problems.</p>
+      <div class="tag-row"><span class="tag">foundations</span><span class="tag">family labor supply</span><span class="tag">taxation</span><span class="tag">deadweight loss</span></div>
+    </article>
+    
+    <article class="card searchable-card" data-search="labor supply with hours restrictions a classic structural model in which workers choose among jobs offering fixed hours, making hours mismatch a feature of job offers rather than a mistake in worker optimization. hours restrictions discrete job offers structural model hours mismatch foundations">
+      <p class="eyebrow">Foundations - 1993</p>
+      <h3><a href="../articles/dickens-lundberg-1993-hours-restrictions-and-labor-supply.html">Labor Supply with Hours Restrictions</a></h3>
+      <p class="meta-line">International Economic Review</p>
+      <p>A classic structural model in which workers choose among jobs offering fixed hours, making hours mismatch a feature of job offers rather than a mistake in worker optimization.</p>
+      <div class="tag-row"><span class="tag">hours restrictions</span><span class="tag">discrete job offers</span><span class="tag">structural model</span><span class="tag">hours mismatch</span><span class="tag">foundations</span></div>
+    </article>
+    
+    <article class="card searchable-card" data-search="bounds on elasticities with optimization frictions: a synthesis of micro and macro evidence on labor supply the paper that formalizes a key modern lesson: small observed responses can be consistent with larger underlying elasticities when optimization frictions are present. chetty optimization frictions elasticity bounds micro vs macro welfare">
+      <p class="eyebrow">Start Here - 2012</p>
+      <h3><a href="../articles/chetty-2012-bounds-on-elasticities.html">Bounds on Elasticities With Optimization Frictions: A Synthesis of Micro and Macro Evidence on Labor Supply</a></h3>
+      <p class="meta-line">Econometrica</p>
+      <p>The paper that formalizes a key modern lesson: small observed responses can be consistent with larger underlying elasticities when optimization frictions are present.</p>
+      <div class="tag-row"><span class="tag">chetty</span><span class="tag">optimization frictions</span><span class="tag">elasticity bounds</span><span class="tag">micro vs macro</span><span class="tag">welfare</span></div>
+    </article>
+    
+    <article class="card searchable-card" data-search="micro versus macro labor supply elasticities: the role of dynamic returns to effort a recent frontier paper showing that long-run earnings responses to taxes can be much larger than short-run responses because effort pays off through delayed job ladders and mobility. recent micro vs macro dynamic returns taxation quasi-experimental">
+      <p class="eyebrow">Recent - 2025</p>
+      <h3><a href="../articles/kleven-kreiner-larsen-sogaard-2025-dynamic-returns-to-effort.html">Micro versus Macro Labor Supply Elasticities: The Role of Dynamic Returns to Effort</a></h3>
+      <p class="meta-line">American Economic Review</p>
+      <p>A recent frontier paper showing that long-run earnings responses to taxes can be much larger than short-run responses because effort pays off through delayed job ladders and mobility.</p>
+      <div class="tag-row"><span class="tag">recent</span><span class="tag">micro vs macro</span><span class="tag">dynamic returns</span><span class="tag">taxation</span><span class="tag">quasi-experimental</span></div>
+    </article>
+    
+    <article class="card searchable-card" data-search="reservation wages and workers&#x27; valuation of job flexibility: evidence from a natural field experiment a recent field-experimental paper recovering reservation wages and elasticity heterogeneity in a setting with near-complete schedule choice, and showing how much static methods can miss. job flexibility reservation wages dynamic model uber discrete scheduling">
+      <p class="eyebrow">Recent - 2025</p>
+      <h3><a href="../articles/chen-ding-list-mogstad-2025-job-flexibility.html">Reservation Wages and Workers&#x27; Valuation of Job Flexibility: Evidence from a Natural Field Experiment</a></h3>
+      <p class="meta-line">Journal of the European Economic Association</p>
+      <p>A recent field-experimental paper recovering reservation wages and elasticity heterogeneity in a setting with near-complete schedule choice, and showing how much static methods can miss.</p>
+      <div class="tag-row"><span class="tag">job flexibility</span><span class="tag">reservation wages</span><span class="tag">dynamic model</span><span class="tag">uber</span><span class="tag">discrete scheduling</span></div>
+    </article>
+    
+              </div>
+            </section>
+            
+  </main>
+  <footer class="site-footer">
+    <p>Built from local markdown, saved PDF copies, and source links. Open <code>site/index.html</code> on any device-friendly browser.</p>
+  </footer>
+  <script src="../assets/app.js"></script>
+</body>
+</html>

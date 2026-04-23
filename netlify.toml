@@ -24,3 +24,11 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
+[[edge_functions]]
+  path = "/private/labor-supply-wiki-qv7m4t2x"
+  function = "private-wiki-auth"
+
+[[edge_functions]]
+  path = "/private/labor-supply-wiki-qv7m4t2x/*"
+  function = "private-wiki-auth"

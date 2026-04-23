@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "Private Labor Supply Wiki"
+AuthUserFile /absolute/path/outside-web-root/.htpasswd-labor-supply
+Require valid-user
+
+DirectoryIndex index.html
+Options -Indexes

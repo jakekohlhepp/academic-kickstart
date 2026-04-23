@@ -1,0 +1,11 @@
+example.com {
+    handle_path /labor-supply-wiki/* {
+        basicauth {
+            yourusername JDJhJDE0JFd2b0x6Q29yZ3h1cFF5R1dTQ0p0bU9wL2I4c3h0VjUuQm9vZ2xFSnF6R0gxY2hEV1BPL3JX
+        }
+
+        root * /var/www/personal-site/labor-supply-wiki
+        try_files {path} {path}/ /index.html
+        file_server
+    }
+}
