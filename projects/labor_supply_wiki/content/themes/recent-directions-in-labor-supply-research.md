@@ -2,7 +2,7 @@
 title: Recent directions in labor supply research
 slug: recent-directions-in-labor-supply-research
 deck: A note-driven map of how the field has shifted since around 2020, from pandemic volatility toward monopsony, matching frictions, reservation wedges, and organizational mediation.
-featured_articles: graber-havarstein-mogstad-torsvik-vestad-2026-substitution-income-effects-taxation|kleven-kreiner-larsen-sogaard-2025-dynamic-returns-to-effort|chen-ding-list-mogstad-2025-job-flexibility|chen-chevalier-rossi-oehlsen-2019-value-of-flexible-work|maestas-messel-truskinovsky-2024-caregiving-and-labor-supply|chetty-friedman-olsen-pistaferri-2011-adjustment-costs|jara-gasior-makovec-2020-work-incentives-europe|dastan-farhidi-2026-occupational-preferences-heterogeneity|chetty-2012-bounds-on-elasticities
+featured_articles: graber-havarstein-mogstad-torsvik-vestad-2026-substitution-income-effects-taxation|keane-neal-2025-robust-inference-frisch-labor-supply-elasticity|yum-2024-frisch-elasticities-indivisible-labor-endogenous-workweek|hall-horton-knoepfle-2023-ridesharing-markets-reequilibrate|lavetti-schmutte-2023-compensating-differentials-job-attributes|elminejad-havranek-horvath-irsova-2023-intertemporal-substitution-meta-analysis|kleven-kreiner-larsen-sogaard-2025-dynamic-returns-to-effort|chen-ding-list-mogstad-2025-job-flexibility|chen-chevalier-rossi-oehlsen-2019-value-of-flexible-work|maestas-messel-truskinovsky-2024-caregiving-and-labor-supply|chetty-friedman-olsen-pistaferri-2011-adjustment-costs|jara-gasior-makovec-2020-work-incentives-europe|dastan-farhidi-2026-occupational-preferences-heterogeneity|chetty-2012-bounds-on-elasticities
 ---
 ## Why the last few years feel different
 
@@ -39,3 +39,5 @@ The linked pages on [hours mismatch and alternative work arrangements](../themes
 ## Where this points next
 
 The immediate next step for the wiki should be more direct coverage of recent monopsony, reservation-wedge, care-infrastructure, and remote-work amenity literatures. For now, this page works as a synthesis map connecting those newer directions back to the article pages already in the collection.
+
+The new pages on [monopsony and firm wage-setting](../themes/monopsony-and-firm-wage-setting.html), [platform and ridesharing labor supply](../themes/platform-labor-supply.html), [meta-analyses and benchmark estimates](../themes/meta-analyses-and-benchmark-estimates.html), and [robust inference on Frisch elasticities](../themes/robust-frisch-inference.html) now give those directions their own routes through the wiki.

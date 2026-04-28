@@ -2,7 +2,7 @@
 title: Life-cycle and family labor supply
 slug: life-cycle-and-family-labor-supply
 deck: The older backbone of the field: dynamic choice, joint household decisions, and the move from theory to estimation.
-featured_articles: blinder-weiss-1976-human-capital-and-labor-supply|macurdy-1981-life-cycle-labor-supply|hausman-ruud-1984-family-labor-supply-with-taxes|baker-gruber-milligan-2008-universal-child-care|maestas-messel-truskinovsky-2024-caregiving-and-labor-supply
+featured_articles: blinder-weiss-1976-human-capital-and-labor-supply|macurdy-1981-life-cycle-labor-supply|shaw-1989-life-cycle-labor-supply-human-capital|imai-keane-2004-intertemporal-labor-supply-human-capital|pistaferri-2003-wage-risk-intertemporal-labor-supply|french-2005-health-wealth-wages-retirement-labor-supply|blundell-pistaferri-saporta-eksten-2016-consumption-inequality-family-labor-supply|hausman-ruud-1984-family-labor-supply-with-taxes|baker-gruber-milligan-2008-universal-child-care|lundberg-1985-added-worker-effect|maestas-messel-truskinovsky-2024-caregiving-and-labor-supply
 ---
 ## What ties these papers together
 
@@ -22,3 +22,5 @@ Even newer reduced-form and quasi-experimental papers keep inheriting questions 
 ## Where to go next
 
 Use [utility functions and dynamic vs. static models](../themes/utility-functions-and-dynamic-vs-static-models.html) for the model architecture underneath these papers, and [care institutions and labor supply](../themes/care-institutions-and-labor-supply.html) for the policy and infrastructure side of the same family-labor-supply problem.
+
+The expanded collection now also has dedicated pages for [human capital and labor supply](../themes/human-capital-and-labor-supply.html) and [life-cycle structural estimation](../themes/life-cycle-structural-estimation.html), which are the better routes for Shaw, Imai-Keane, Wallenius, French, Pistaferri, Ziliak-Kniesner, and Blundell-Pistaferri-Saporta-Eksten.

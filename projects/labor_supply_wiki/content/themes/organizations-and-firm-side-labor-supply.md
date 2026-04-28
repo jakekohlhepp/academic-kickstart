@@ -2,7 +2,7 @@
 title: Organizations and firm-side labor supply
 slug: organizations-and-firm-side-labor-supply
 deck: A theme page on how firms aggregate worker preferences through task assignment, job design, coordination, and scheduling systems rather than simply taking hours off a textbook supply curve.
-featured_articles: chetty-friedman-olsen-pistaferri-2011-adjustment-costs|bloom-liang-roberts-ying-2015-working-from-home|kelly-moen-tranby-2011-schedule-control-white-collar-organization|kelly-et-al-2014-work-family-health-network|mas-pallais-2017-valuing-alternative-work-arrangements|chen-ding-list-mogstad-2025-job-flexibility|dastan-farhidi-2026-occupational-preferences-heterogeneity|kleven-kreiner-larsen-sogaard-2025-dynamic-returns-to-effort
+featured_articles: manning-2003-monopsony-in-motion|caldwell-danieli-2019-firm-wage-setting-power|dube-manning-naidu-labor-market-concentration|chetty-friedman-olsen-pistaferri-2011-adjustment-costs|bloom-liang-roberts-ying-2015-working-from-home|kelly-moen-tranby-2011-schedule-control-white-collar-organization|kelly-et-al-2014-work-family-health-network|mas-pallais-2017-valuing-alternative-work-arrangements|lavetti-schmutte-2023-compensating-differentials-job-attributes|chen-ding-list-mogstad-2025-job-flexibility|dastan-farhidi-2026-occupational-preferences-heterogeneity|kleven-kreiner-larsen-sogaard-2025-dynamic-returns-to-effort|deardorff-stafford-1976-compensation-cooperating-factors
 ---
 ## The basic claim
 
@@ -49,3 +49,5 @@ A measured elasticity is not always a pure worker-preference object. It may also
 ## Coverage note
 
 This area is now better covered than before, but the wiki could still use more direct article pages on monopsony, management quality, and organizational responses to care constraints.
+
+The new [monopsony and firm wage-setting](../themes/monopsony-and-firm-wage-setting.html), [assignment and matching models](../themes/assignment-and-matching-models.html), and [compensating differentials and job attributes](../themes/compensating-differentials-and-job-attributes.html) pages now cover much of the missing structure behind this theme.

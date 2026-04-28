@@ -2,7 +2,7 @@
 title: Utility functions and dynamic vs. static models
 slug: utility-functions-and-dynamic-vs-static-models
 deck: A model-side guide to the utility functions, state variables, and static versus dynamic choices that sit underneath labor-supply estimates in the literature.
-featured_articles: blinder-weiss-1976-human-capital-and-labor-supply|macurdy-1981-life-cycle-labor-supply|hausman-ruud-1984-family-labor-supply-with-taxes|dickens-lundberg-1993-hours-restrictions-and-labor-supply|chetty-2012-bounds-on-elasticities|kleven-kreiner-larsen-sogaard-2025-dynamic-returns-to-effort|chen-ding-list-mogstad-2025-job-flexibility
+featured_articles: blinder-weiss-1976-human-capital-and-labor-supply|macurdy-1981-life-cycle-labor-supply|browning-deaton-irish-1985-life-cycle-labor-supply-demands|imai-keane-2004-intertemporal-labor-supply-human-capital|wallenius-2011-human-capital-bias-ies-labor|hausman-ruud-1984-family-labor-supply-with-taxes|dickens-lundberg-1993-hours-restrictions-and-labor-supply|chetty-2012-bounds-on-elasticities|keane-rogerson-2015-reconciling-micro-macro-elasticities|kleven-kreiner-larsen-sogaard-2025-dynamic-returns-to-effort|chen-ding-list-mogstad-2025-job-flexibility
 ---
 ## Why this page exists
 
@@ -57,3 +57,5 @@ Those questions usually tell you more than the headline elasticity.
 ## How this page fits with the rest of the wiki
 
 This page is the model companion to [estimation strategies and relative credibility](../themes/estimation-strategies-and-relative-credibility.html). That page is about research design credibility. This page is about the behavioral structure underneath the estimate.
+
+For deeper dynamic routes, use [human capital and labor supply](../themes/human-capital-and-labor-supply.html), [life-cycle structural estimation](../themes/life-cycle-structural-estimation.html), and [indivisible labor and extensive-margin models](../themes/indivisible-labor-and-extensive-margin.html).

@@ -2,7 +2,7 @@
 title: Taxable income, substitution, and income effects
 slug: taxable-income-and-income-effects
 deck: A guide to the papers that connect ETI estimates, lottery-based income effects, and the harder question of what tax reforms actually reveal about labor-supply elasticities.
-featured_articles: graber-havarstein-mogstad-torsvik-vestad-2026-substitution-income-effects-taxation|saez-slemrod-giertz-2012-eti-critical-review|gruber-saez-2002-elasticity-of-taxable-income|feldstein-1995-effect-of-marginal-tax-rates-on-taxable-income|kleven-schultz-2014-estimating-taxable-income-responses-danish-tax-reforms|kumar-liang-2020-eti-elasticity-heterogeneity|imbens-rubin-sacerdote-2001-unearned-income-lottery-players|cesarini-lindqvist-notowidigdo-ostling-2017-wealth-and-labor-supply|picchio-suetens-van-ours-2018-labor-supply-effects-winning-lottery|neisser-2021-eti-meta-regression
+featured_articles: graber-havarstein-mogstad-torsvik-vestad-2026-substitution-income-effects-taxation|saez-2001-elasticities-optimal-income-tax-rates|saez-slemrod-giertz-2012-eti-critical-review|gruber-saez-2002-elasticity-of-taxable-income|feldstein-1995-effect-of-marginal-tax-rates-on-taxable-income|kleven-schultz-2014-estimating-taxable-income-responses-danish-tax-reforms|kreiner-leth-petersen-skov-2016-danish-tax-reform-micro-elasticities|martinez-et-al-2021-swiss-tax-holiday-hours-elasticity|kumar-liang-2020-eti-elasticity-heterogeneity|imbens-rubin-sacerdote-2001-unearned-income-lottery-players|cesarini-lindqvist-notowidigdo-ostling-2017-wealth-and-labor-supply|picchio-suetens-van-ours-2018-labor-supply-effects-winning-lottery|neisser-2021-eti-meta-regression
 ---
 ## Why this page exists
 
@@ -31,3 +31,5 @@ This is why [Estimating Taxable Income Responses with Elasticity Heterogeneity](
 The paper's literature section also points toward a Norway-specific bridge and a few additional complements that are worth keeping in view even where this wiki does not yet have standalone pages: Trine Engh Vattø (2020) on sluggish earnings responses, Thor O. Thoresen and Trine E. Vattø (2015) on validating discrete-choice labor-supply models against tax-response evidence, Kristoffer Berg and Thor O. Thoresen (2020) on problematic ETI response margins, Rolf Aaberge and Ugo Colombino (2018) on discrete-choice labor-supply modeling, and the lottery-income-effect papers by Bulman et al. (2021) and Golosov et al. (2024).
 
 Those are especially useful if you want to push this cluster further toward Norwegian reform evidence, structural validation, or the newest income-effect literature.
+
+For notches, salience, and earnings-response frictions, use [bunching and tax-policy elasticities](../themes/bunching-tax-policy.html). For the welfare-formula side, use [public finance and optimal taxation](../themes/public-finance-and-optimal-taxation.html).

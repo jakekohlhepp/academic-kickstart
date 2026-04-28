@@ -2,7 +2,7 @@
 title: Hours mismatch and alternative work arrangements
 slug: hours-mismatch-and-work-arrangements
 deck: A theme page on preferred versus actual hours, discrete scheduling, schedule predictability, and the Mas-Pallais literature on alternative work arrangements.
-featured_articles: mas-pallais-2017-valuing-alternative-work-arrangements|mas-pallais-2019-value-of-non-work-time|mas-pallais-2020-alternative-work-arrangements|altonji-paxson-1988-hours-wage-tradeoffs|altonji-paxson-1992-hours-constraints-and-job-mobility|kahn-lang-1991-hours-constraints-estimates|dickens-lundberg-1993-hours-restrictions-and-labor-supply|chen-chevalier-rossi-oehlsen-2019-value-of-flexible-work|chen-ding-list-mogstad-2025-job-flexibility|dastan-farhidi-2026-occupational-preferences-heterogeneity|chetty-friedman-olsen-pistaferri-2011-adjustment-costs
+featured_articles: mas-pallais-2017-valuing-alternative-work-arrangements|mas-pallais-2019-value-of-non-work-time|mas-pallais-2020-alternative-work-arrangements|altonji-paxson-1988-hours-wage-tradeoffs|altonji-paxson-1992-hours-constraints-and-job-mobility|kahn-lang-1991-hours-constraints-estimates|dickens-lundberg-1993-hours-restrictions-and-labor-supply|hamermesh-1996-establishment-hours-clustering|cardoso-hamermesh-varejao-2012-timing-labor-demand|chen-chevalier-rossi-oehlsen-2019-value-of-flexible-work|angrist-caldwell-hall-2021-uber-versus-taxi|chen-ding-list-mogstad-2025-job-flexibility|lavetti-schmutte-2023-compensating-differentials-job-attributes|dastan-farhidi-2026-occupational-preferences-heterogeneity|chetty-friedman-olsen-pistaferri-2011-adjustment-costs
 ---
 ## Why this theme matters
 
@@ -39,6 +39,8 @@ The new page on [discrete scheduling and labor supply](../themes/discrete-schedu
 ## Why this theme belongs with organizations
 
 This literature fits directly with [organizations and firm-side labor supply](../themes/organizations-and-firm-side-labor-supply.html). Firms aggregate worker preferences by deciding which job packages to offer, how much schedule discretion to allow, and how costly it is for workers to re-time hours.
+
+The expanded collection also separates [platform and ridesharing labor supply](../themes/platform-labor-supply.html), [taxi driver labor supply](../themes/taxi-driver-labor-supply.html), and [compensating differentials and job attributes](../themes/compensating-differentials-and-job-attributes.html). Those pages keep the flexible-work, taxi, and job-bundle literatures from getting buried inside one broad hours-mismatch page.
 
 ## Frontier note
 

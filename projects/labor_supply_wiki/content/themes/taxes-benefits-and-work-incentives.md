@@ -2,7 +2,7 @@
 title: Taxes, benefits, and work incentives
 slug: taxes-benefits-and-work-incentives
 deck: A policy-facing theme page on wedges, margins, and why tax-benefit design shows up so often in labor supply research.
-featured_articles: hausman-ruud-1984-family-labor-supply-with-taxes|chetty-guren-manoli-weber-2011-micro-vs-macro-elasticities|chetty-friedman-olsen-pistaferri-2011-adjustment-costs|chetty-2012-bounds-on-elasticities|graber-havarstein-mogstad-torsvik-vestad-2026-substitution-income-effects-taxation|gruber-saez-2002-elasticity-of-taxable-income|jara-gasior-makovec-2020-work-incentives-europe|bargain-peichl-2016-own-wage-labor-supply-elasticities
+featured_articles: hausman-ruud-1984-family-labor-supply-with-taxes|saez-2001-elasticities-optimal-income-tax-rates|chetty-guren-manoli-weber-2011-micro-vs-macro-elasticities|chetty-friedman-olsen-pistaferri-2011-adjustment-costs|chetty-2012-bounds-on-elasticities|kleven-waseem-2013-notches-optimization-frictions-structural-elasticities|chetty-friedman-saez-2013-eitc-knowledge-neighborhoods-earnings|graber-havarstein-mogstad-torsvik-vestad-2026-substitution-income-effects-taxation|gruber-saez-2002-elasticity-of-taxable-income|jara-gasior-makovec-2020-work-incentives-europe|bargain-peichl-2016-own-wage-labor-supply-elasticities|martinez-et-al-2021-swiss-tax-holiday-hours-elasticity
 ---
 ## Why this theme matters
 
@@ -24,3 +24,5 @@ Much of the labor-supply literature becomes concrete only when it is attached to
 Policy often works through different margins for different groups. Second earners, lower-income households, and workers facing lumpy job offers can all see very different incentive environments even under the same formal tax system.
 
 If you want the ETI side of this theme organized directly, use the companion page on [taxable income, substitution, and income effects](../themes/taxable-income-and-income-effects.html).
+
+For the optimal-tax version of the same question, use [public finance and optimal taxation](../themes/public-finance-and-optimal-taxation.html). For notches, kinks, salience, timing, and earnings-test frictions, use [bunching and tax-policy elasticities](../themes/bunching-tax-policy.html).
