@@ -4,6 +4,9 @@ slug: rogerson-wallenius-2009-micro-macro-elasticities-life-cycle-taxes
 authors: Richard Rogerson|Johanna Wallenius
 year: 2009
 journal: Journal of Economic Theory
+source_url: https://www.nber.org/papers/w13017
+pdf_path: library/pdfs/rogerson-wallenius-2009-micro-macro-elasticities-life-cycle-taxes.pdf
+copy_type: NBER working-paper version of the peer-reviewed article
 tags: micro vs macro|life cycle|taxes|elasticities
 related_themes: micro-vs-macro-elasticities|macro-business-cycle-labor-supply|life-cycle-and-family-labor-supply
 shelf: recent
@@ -17,4 +20,3 @@ Rogerson and Wallenius make the micro-macro gap a life-cycle and tax problem rat
 
 - Put it between the older Frisch foundations and the Keane-Rogerson reassessment papers.
 - Use it when thinking about taxes that alter lifetime work timing, not only current-period hours.
-

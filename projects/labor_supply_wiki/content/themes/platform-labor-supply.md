@@ -16,3 +16,8 @@ Start with [An Analysis of the Labor Market for Uber's Driver-Partners in the Un
 
 The taxi-driver literature is the older cousin of this theme. It asks similar questions about temporary wage variation and flexible daily labor supply.
 
+## Three bridges
+
+First, platform work links to [taxi driver labor supply](../themes/taxi-driver-labor-supply.html) through high-frequency wage variation and reference-dependence debates. Second, it links to [hours mismatch and alternative work arrangements](../themes/hours-mismatch-and-work-arrangements.html) because platforms offer unusually fine schedule choice. Third, it links to [monopsony and firm wage-setting](../themes/monopsony-and-firm-wage-setting.html) because outside options and platform design shape the labor supply curve facing the platform.
+
+That is why Uber papers are useful even when the substantive target is not gig work: they reveal what labor supply looks like when the schedule menu is unusually dense.

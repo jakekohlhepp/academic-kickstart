@@ -16,3 +16,8 @@ Start with [Labor Supply of New York City Cabdrivers: One Day at a Time](../arti
 
 This debate shaped how economists think about temporary wage changes, behavioral preferences, and high-frequency labor supply. It is now also background for platform-work papers.
 
+## What carries over to platform work
+
+The taxi papers teach two portable lessons. First, high-frequency wage variation is valuable only if the researcher understands selection into work periods. Second, a short-run negative or muted hours response can reflect reference dependence, income targeting, fatigue, expectations, or dynamic optimization.
+
+The platform papers inherit those problems, but add app-level pricing, dispatch, and market re-equilibration. That is why this page should be read with [platform and ridesharing labor supply](../themes/platform-labor-supply.html), not as a closed older debate.

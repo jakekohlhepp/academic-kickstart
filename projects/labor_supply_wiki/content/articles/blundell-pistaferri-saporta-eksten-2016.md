@@ -4,6 +4,9 @@ slug: blundell-pistaferri-saporta-eksten-2016-consumption-inequality-family-labo
 authors: Richard Blundell|Luigi Pistaferri|Itay Saporta-Eksten
 year: 2016
 journal: American Economic Review
+source_url: https://www.nber.org/papers/w18445
+pdf_path: library/pdfs/blundell-pistaferri-saporta-eksten-2016-consumption-inequality-family-labor-supply.pdf
+copy_type: NBER working-paper version of the peer-reviewed article
 tags: family labor supply|consumption inequality|partial insurance|life cycle
 related_themes: life-cycle-structural-estimation|life-cycle-and-family-labor-supply|aggregation-heterogeneous-elasticities
 shelf: recent
@@ -17,4 +20,3 @@ This paper makes family labor supply part of the household insurance problem. It
 
 - Read it with Heathcote-Storesletten-Violante on consumption and labor supply under incomplete insurance.
 - Use it when asking how spousal labor supply changes the mapping from wage shocks to consumption inequality.
-

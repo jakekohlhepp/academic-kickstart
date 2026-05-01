@@ -22,6 +22,10 @@ The expanded structural route runs through [Micro and Macro Elasticities in a Li
 
 The argument is no longer just "micro versus macro." The real issue is which margin is moving, over what horizon, under what frictions, and with what identifying variation.
 
+## Bridge to the rest of the wiki
+
+This theme now has four nearby routes. [Indivisible labor and extensive-margin models](../themes/indivisible-labor-and-extensive-margin.html) is the right path when participation is doing the work. [Aggregation of heterogeneous elasticities](../themes/aggregation-heterogeneous-elasticities.html) is the right path when micro estimates have to become population objects. [Human capital and labor supply](../themes/human-capital-and-labor-supply.html) is the right path when today's work changes tomorrow's wage. [Macro and business-cycle labor supply](../themes/macro-business-cycle-labor-supply.html) is the right path when the target is aggregate hours over cycles or across countries.
+
 ## Why the older literature still matters
 
 [An Empirical Model of Labor Supply in a Life-Cycle Setting](../articles/macurdy-1981-life-cycle-labor-supply.html) matters here because the later elasticity debate still depends on distinctions the older life-cycle literature pushed hard: temporary versus permanent wage changes, intertemporal substitution, and the meaning of a Frisch object.

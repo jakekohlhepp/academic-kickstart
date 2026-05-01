@@ -16,3 +16,8 @@ Public finance often needs a tractable elasticity for welfare calculations or op
 
 The taxable-income literature is nearby because ETI can be a sufficient statistic under some conditions. The conditions matter.
 
+## Which elasticity belongs in the formula?
+
+Saez-style formulas need behavioral responses to tax rates, but the empirical literature offers several candidates: taxable-income elasticities, hours elasticities, participation elasticities, and Frisch elasticities used in macro models. The wiki now separates those candidates across [taxable income, substitution, and income effects](../themes/taxable-income-and-income-effects.html), [bunching and tax-policy elasticities](../themes/bunching-tax-policy.html), [Frisch elasticity foundations](../themes/frisch-elasticity-foundations.html), and [aggregation of heterogeneous elasticities](../themes/aggregation-heterogeneous-elasticities.html).
+
+The policy question should determine the elasticity, not the other way around.

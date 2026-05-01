@@ -19,3 +19,8 @@ The Frisch elasticity is one of the most reused and most contested objects in la
 
 The same word "elasticity" can refer to short-run hours adjustment, intertemporal substitution holding wealth constant, lifetime labor-supply reallocation, or an aggregate macro object. Most disagreements start there.
 
+## Connection map
+
+Use [human capital and labor supply](../themes/human-capital-and-labor-supply.html) when a Frisch estimate might be contaminated by returns to experience. Use [aggregation of heterogeneous elasticities](../themes/aggregation-heterogeneous-elasticities.html) when the object is a population average rather than an individual parameter. Use [macro and business-cycle labor supply](../themes/macro-business-cycle-labor-supply.html) when the elasticity is doing work inside a calibrated aggregate model.
+
+The practical sequence is therefore: define the elasticity object, ask what state variables are being held fixed, then ask whether the estimate is being used for individual behavior, policy counterfactuals, or macro calibration.

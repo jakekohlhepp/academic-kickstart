@@ -16,3 +16,8 @@ Start with [What Has Been Learned About Labor Supply in the Past Twenty Years?](
 
 Aggregation is where a credible local estimate can still become the wrong policy input. The population weights, margins, and institutions matter.
 
+## Connections to policy and macro
+
+This page is the hinge between micro evidence and policy use. [Public finance and optimal taxation](../themes/public-finance-and-optimal-taxation.html) needs elasticities that are weighted by the relevant tax base and welfare weights. [Macro and business-cycle labor supply](../themes/macro-business-cycle-labor-supply.html) needs elasticities that move aggregate hours or employment. [Demographic differences in elasticities](../themes/demographic-differences-in-elasticities.html) is the place to look when the weights change because the population changes.
+
+The useful habit is to ask: whose response gets weighted, which margin counts, and over what horizon?

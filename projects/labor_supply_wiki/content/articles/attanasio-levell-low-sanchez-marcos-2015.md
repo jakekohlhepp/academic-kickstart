@@ -4,6 +4,9 @@ slug: attanasio-levell-low-sanchez-marcos-2015-aggregating-elasticities
 authors: Orazio Attanasio|Peter Levell|Hamish Low|Virginia Sanchez-Marcos
 year: 2015
 journal: NBER Working Paper 21315
+source_url: https://www.nber.org/papers/w21315
+pdf_path: library/pdfs/attanasio-levell-low-sanchez-marcos-2015-aggregating-elasticities.pdf
+copy_type: NBER working paper PDF
 tags: aggregation|female labor supply|intensive margin|extensive margin
 related_themes: aggregation-heterogeneous-elasticities|demographic-differences-in-elasticities|micro-vs-macro-elasticities
 shelf: recent

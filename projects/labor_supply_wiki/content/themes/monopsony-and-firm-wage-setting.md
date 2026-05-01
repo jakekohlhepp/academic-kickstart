@@ -16,3 +16,8 @@ Start with [Monopsony in Motion](../articles/manning-2003-monopsony-in-motion.ht
 
 The firm-facing supply curve is shaped by scheduling, amenities, task assignment, outside options, and coordination costs. It is not only a wage curve.
 
+## Connection map
+
+For amenities and job bundles, go to [compensating differentials and job attributes](../themes/compensating-differentials-and-job-attributes.html). For task assignment and worker-firm matching, go to [assignment and matching models](../themes/assignment-and-matching-models.html). For schedule menus and employer control over timing, go to [hours mismatch and alternative work arrangements](../themes/hours-mismatch-and-work-arrangements.html).
+
+The shared point is that the labor supply curve facing a firm is partly produced by the firm's own job design.
