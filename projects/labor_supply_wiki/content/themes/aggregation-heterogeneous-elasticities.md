@@ -2,7 +2,7 @@
 title: Aggregation of heterogeneous elasticities
 slug: aggregation-heterogeneous-elasticities
 deck: Papers on why heterogeneous individual responses do not collapse into one policy-relevant elasticity by simple averaging.
-featured_articles: heckman-1993-learned-about-labor-supply|attanasio-levell-low-sanchez-marcos-2015-aggregating-elasticities|kneip-et-al-2020-aggregation-labor-supply-elasticities|blundell-bozio-laroque-2011-extensive-margin-us-uk-france|heathcote-storesletten-violante-2014-consumption-labor-supply-partial-insurance|browning-hansen-heckman-1999-micro-data-general-equilibrium-models|blundell-pistaferri-saporta-eksten-2016-consumption-inequality-family-labor-supply
+featured_articles: heckman-1993-learned-about-labor-supply|attanasio-levell-low-sanchez-marcos-2015-aggregating-elasticities|kneip-et-al-2020-aggregation-labor-supply-elasticities|blundell-bozio-laroque-2011-extensive-margin-us-uk-france|heathcote-storesletten-violante-2014-consumption-labor-supply-partial-insurance|browning-hansen-heckman-1999-micro-data-general-equilibrium-models|blundell-pistaferri-saporta-eksten-2016-consumption-inequality-family-labor-supply|annabi-boudribila-harvey-2013-working-income-tax-benefit
 ---
 ## The central problem
 
@@ -10,7 +10,7 @@ Labor-supply elasticities vary across people, margins, wages, institutions, and 
 
 ## Reading path
 
-Start with [What Has Been Learned About Labor Supply in the Past Twenty Years?](../articles/heckman-1993-learned-about-labor-supply.html) and [Micro Data and General Equilibrium Models](../articles/browning-hansen-heckman-1999-micro-data-general-equilibrium-models.html). Then use [Aggregating Elasticities](../articles/attanasio-levell-low-sanchez-marcos-2015-aggregating-elasticities.html), [Aggregation and Labor Supply Elasticities](../articles/kneip-et-al-2020-aggregation-labor-supply-elasticities.html), and [Labour Supply Responses and the Extensive Margin](../articles/blundell-bozio-laroque-2011-extensive-margin-us-uk-france.html) for modern applications.
+Start with [What Has Been Learned About Labor Supply in the Past Twenty Years?](../articles/heckman-1993-learned-about-labor-supply.html) and [Micro Data and General Equilibrium Models](../articles/browning-hansen-heckman-1999-micro-data-general-equilibrium-models.html). Then use [Aggregating Elasticities](../articles/attanasio-levell-low-sanchez-marcos-2015-aggregating-elasticities.html), [Aggregation and Labor Supply Elasticities](../articles/kneip-et-al-2020-aggregation-labor-supply-elasticities.html), and [Labour Supply Responses and the Extensive Margin](../articles/blundell-bozio-laroque-2011-extensive-margin-us-uk-france.html) for modern applications. [Labour supply and income distribution effects of the working income tax benefit](../articles/annabi-boudribila-harvey-2013-working-income-tax-benefit.html) is a useful policy-facing complement because it shows aggregation inside a general-equilibrium microsimulation rather than a pure elasticity calculation.
 
 ## Why it matters
 
