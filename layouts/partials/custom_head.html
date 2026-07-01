@@ -73,4 +73,30 @@
   }
   .card-simple .card-extra-label { font-weight: 700; }
   .card-simple .btn-links { margin-top: .5rem; margin-bottom: 0; }
+
+  /* --- Publication status pills (see page_metadata.html override) -------- */
+  .pub-status {
+    display: inline-block;
+    padding: .05rem .55rem;
+    border-radius: 10rem;
+    font-size: .72rem;
+    font-weight: 700;
+    line-height: 1.5;
+    vertical-align: middle;
+  }
+  .pub-status-pub  { background: #e3f4e8; color: #1e7e34; }   /* published */
+  .pub-status-rr   { background: #fff3cd; color: #856404; }   /* revise & resubmit */
+  .pub-status-note { background: #e8edf3; color: #44546a; }   /* draft/new/etc. */
+  .dark .pub-status-pub  { background: #1e4620; color: #8fe2ae; }
+  .dark .pub-status-rr   { background: #4d3a06; color: #ffd97a; }
+  .dark .pub-status-note { background: #323b4d; color: #b6c2d9; }
+
+  /* --- Optional per-paper figure thumbnail on cards ----------------------
+     Add a `featured.png` (or .jpg) key figure to a paper's folder and it
+     shows as a compact right-floated thumbnail (see li_card.html). */
+  .card-simple .card-thumb-link { float: right; margin: 0 0 .5rem 1rem; }
+  .card-simple .card-thumb { width: 150px; height: auto; border-radius: 3px; }
+  @media screen and (max-width: 576px) {
+    .card-simple .card-thumb { width: 90px; }
+  }
 </style>

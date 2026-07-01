@@ -66,10 +66,6 @@ math = true
 # Does the content use source code highlighting?
 highlight = true
 
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "headers/bubbles-wide.jpg"
 
 +++
 In this paper, I study how voluntary labor supply decisions within an organization impact workplace injury using novel data on the payroll and workers’ compensation

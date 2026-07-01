@@ -59,10 +59,6 @@ math = true
 # Does the content use source code highlighting?
 highlight = true
 
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "headers/bubbles-wide.jpg"
 
 +++
 Whether tips should be treated differently than wages under tax and minimum-wage laws depends on whether they incentivize service quality. I develop a test for incentive relevant tipping, capable of detecting both quality-based social norms and forward-looking behavior, that consists of a simple regression of first-time tip percentages on an indicator for whether a customer returns in the future. I implement the test using more than 200,000 first-time tips from the beauty industry, a setting where the test is high-powered because the customer return rate is 30.7%. Across 2,953 workers, I fail to reject incentive-irrelevant tipping in 98.5% of cases

@@ -57,12 +57,14 @@
     {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
   {{ end }}
 
+  {{/* Optional key figure: drop a featured.png/jpg in the paper's folder and it
+       renders as a compact right-floated thumbnail (styled in custom_head.html). */}}
   {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
   {{ $anchor := $item.Params.image.focal_point | default "Smart" }}
   {{ with $resource }}
-  {{ $image := .Fill (printf "918x517 q90 %s" $anchor) }}
-  <a href="{{ $item.RelPermalink }}">
-      <img src="{{ $image.RelPermalink }}" class="article-banner" alt="{{ $item.Title }}">
+  {{ $image := .Fill (printf "300x225 q90 %s" $anchor) }}
+  <a href="{{ $item.RelPermalink }}" class="card-thumb-link">
+      <img src="{{ $image.RelPermalink }}" class="card-thumb" alt="{{ $item.Title }}">
   </a>
   {{end}}
 

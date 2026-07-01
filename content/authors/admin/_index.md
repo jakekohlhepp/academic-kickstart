@@ -71,3 +71,5 @@ user_groups:
 ---
 
 I am an assistant professor of economics and the John Stewart Fellow at the University of North Carolina at Chapel Hill. I am an applied microeconomist with a background in theory and labor. My CV is available [here](files/kohlhepp_cv.pdf). My research agenda focuses on how human resource decisions within firms shape markets, but this is more of a common thread than a rule. I believe an idea is worth pursuing if it feels like magic and truth at the same time.
+
+**Awards:** Oliver E. Williamson Best Conference Paper Award (SIOE) · ZEW With and Within Orgs. Early Career Researcher Best Paper Prize
