@@ -7,6 +7,14 @@ date = "2026-04-07"
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jacob Kohlhepp", "Robert McDonough"]
 coauthor_links = { "Robert McDonough" = "https://robmcdonough.com/" }
+presentations = [
+  "NBER Labor Studies",
+  "University of Cologne",
+  "INSEAD",
+  "Goethe University in Frankfurt, 2025",
+  "LMU Munich",
+  "University of Mannheim",
+]
 
 # Publication type.
 # Legend:
