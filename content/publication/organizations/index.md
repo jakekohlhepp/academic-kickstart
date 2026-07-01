@@ -7,6 +7,32 @@ date = "2025-11-03"
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jacob Kohlhepp"]
 
+# Presentations. One Markdown string per entry; links are supported.
+presentations = [
+  "Cowles Models and Measurement at Yale SOM",
+  "Southwestern Economic Theory Conference",
+  "ZEW Research with and within Organisations",
+  "MIT Sloan",
+  "Society for Institutional and Organizational Economics (SIOE)",
+  "Stanford Institute for Theoretical Economics",
+  "Duke Fuqua Junior Strategy Conference",
+  "UGA Terry College of Business",
+  "UPenn Labor, Firms and Macro Workshop",
+  "Society of Economic Dynamics",
+  "Harvard Business School",
+  "University of Chicago Booth",
+  "Cornell",
+  "Boston University",
+  "UNC Chapel Hill",
+  "Washington University St. Louis Olin",
+  "University of Wisconsin Madison",
+  "Claremont McKenna",
+  "Southern Economic Association Annual Meeting",
+  "Occidental College",
+  "GLO Global Conference",
+  "Urban Economics Association European Meeting",
+]
+
 # Publication type.
 # Legend:
 # 0 = Uncategorized
