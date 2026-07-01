@@ -11,7 +11,7 @@ presentations = [
   "NBER Labor Studies",
   "University of Cologne",
   "INSEAD",
-  "Goethe University in Frankfurt, 2025",
+  "Goethe University in Frankfurt",
   "LMU Munich",
   "University of Mannheim",
 ]
