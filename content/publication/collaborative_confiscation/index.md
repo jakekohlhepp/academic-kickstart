@@ -7,6 +7,7 @@ date = "2024-12-09"
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Stepan Aleksenko","Jacob Kohlhepp", "Amy Mahler", "Kirill Ponomarev"]
 coauthor_links = { "Stepan Aleksenko" = "https://www.saleksenko.com/", "Amy Mahler" = "https://sites.google.com/view/amy-mahler", "Kirill Ponomarev" = "https://kirillponomarev.com/" }
+presentations = ["Rochester Simon"]
 
 # Publication type.
 # Legend:

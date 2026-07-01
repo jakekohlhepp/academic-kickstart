@@ -7,6 +7,7 @@ date = "2024-11-20"
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Stepan Aleksenko","Jacob Kohlhepp"]
 coauthor_links = { "Stepan Aleksenko" = "https://www.saleksenko.com/" }
+presentations = ["Society of Labor Economists Annual Meeting"]
 
 # Publication type.
 # Legend:

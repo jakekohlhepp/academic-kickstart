@@ -1,0 +1,94 @@
+{{/*
+  Local override of themes/academic/layouts/partials/li_card.html.
+  Only change vs. the theme: for publications, the abstract is shown collapsed
+  behind a click-to-expand <details> (reusing the .pub-abstract-details styling
+  from custom_head.html) instead of a truncated summary snippet. Other content
+  types keep the original summary-link behavior.
+*/}}
+{{ $item := . }}
+
+
+{{/* Dynamic view adjusts to content type. */}}
+{{ $show_buttons := false }}
+{{ if eq $item.Type "talk" }}
+  {{ $show_buttons = true }}
+{{ else if eq $item.Type "publication" }}
+  {{ $show_buttons = true }}
+{{ end }}
+
+{{/* Get summary. */}}
+{{ $summary := "" }}
+{{ if $item.Params.summary }}
+  {{ $summary = $item.Params.summary | markdownify | emojify }}
+{{ else if .Params.abstract }}
+  {{ $summary = .Params.abstract | markdownify | emojify }}
+{{ else if $item.Summary }}
+  {{ $summary = $item.Summary }}
+{{ end }}
+
+{{/* Full abstract for the collapsible (publications only). */}}
+{{ $full_abstract := "" }}
+{{ if eq $item.Type "publication" }}
+  {{ if $item.Params.abstract }}
+    {{ $full_abstract = $item.Params.abstract | markdownify | emojify }}
+  {{ else if $item.Content }}
+    {{ $full_abstract = $item.Content }}
+  {{ end }}
+{{ end }}
+
+<div class="card-simple">
+
+  {{ if eq $item.Type "talk" }}
+  <div class="article-metadata">
+    {{ if $item.Params.authors }}
+    <div>
+      {{ partial "page_metadata_authors" $item }}
+    </div>
+    {{ end }}
+    <span>
+      {{ partial "functions/get_event_dates" $item }}
+    </span>
+    {{ with $item.Params.location }}
+    <span class="middot-divider"></span>
+    <span>{{ . }}</span>
+    {{ end }}
+  </div>
+  {{ else }}
+    {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
+  {{ end }}
+
+  {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
+  {{ $anchor := $item.Params.image.focal_point | default "Smart" }}
+  {{ with $resource }}
+  {{ $image := .Fill (printf "918x517 q90 %s" $anchor) }}
+  <a href="{{ $item.RelPermalink }}">
+      <img src="{{ $image.RelPermalink }}" class="article-banner" alt="{{ $item.Title }}">
+  </a>
+  {{end}}
+
+  <h3 class="article-title mb-1 mt-3">
+    <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>
+  </h3>
+
+  {{ if $full_abstract }}
+  <details class="pub-abstract-details">
+    <summary>{{ i18n "abstract" }}</summary>
+    <div class="pub-abstract article-style">{{ $full_abstract }}</div>
+  </details>
+  {{ else }}
+    {{ with $summary }}
+    <a href="{{ $item.RelPermalink }}" class="summary-link">
+      <div class="article-style">
+        <p>{{.}}</p>
+      </div>
+    </a>
+    {{ end }}
+  {{ end }}
+
+  {{ if $show_buttons }}
+  <div class="btn-links">
+    {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+  </div>
+  {{ end }}
+
+</div>
