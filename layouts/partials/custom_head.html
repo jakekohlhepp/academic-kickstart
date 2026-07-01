@@ -1,0 +1,60 @@
+{{/* Site-specific CSS. Injected into <head> via the theme's site_head.html
+     (`{{ partial "custom_head" . }}`), so no theme files need to be edited. */}}
+<style>
+  /* --- Collapsible publication abstract ---------------------------------- */
+  .pub-abstract-details {
+    margin: 0 0 1.5rem;
+  }
+  .pub-abstract-details > summary {
+    cursor: pointer;
+    font-size: 1.25rem;
+    font-weight: 500;
+    list-style: none;          /* hide default marker (Firefox) */
+  }
+  .pub-abstract-details > summary::-webkit-details-marker {
+    display: none;             /* hide default marker (WebKit) */
+  }
+  .pub-abstract-details > summary:focus-visible {
+    outline: 2px solid currentColor;   /* keyboard focus ring (WCAG 2.4.7) */
+    outline-offset: 2px;
+  }
+  .pub-abstract-details > summary:focus:not(:focus-visible) {
+    outline: none;             /* suppress ring for mouse clicks only */
+  }
+  .pub-abstract-details > summary::before {
+    content: "\25B8";          /* ▸ */
+    display: inline-block;
+    margin-right: .5rem;
+    font-size: .85em;
+    transition: transform .15s ease;
+  }
+  .pub-abstract-details[open] > summary::before {
+    transform: rotate(90deg);
+  }
+  .pub-abstract-details > .pub-abstract {
+    margin-top: .75rem;
+  }
+
+  /* --- Presentations & awards lists ------------------------------------- */
+  .pub-presentations,
+  .pub-awards {
+    margin: 0;
+    padding-left: 1.1rem;
+  }
+  .pub-presentations li,
+  .pub-awards li {
+    margin-bottom: .35rem;
+  }
+  .pub-presentations li p,
+  .pub-awards li p {
+    margin: 0;                 /* markdownify wraps each entry in <p> */
+  }
+
+  /* --- External coauthor link affordance -------------------------------- */
+  .coauthor-ext-icon {
+    font-size: .7em;
+    margin-left: .25em;
+    opacity: .55;
+    vertical-align: super;
+  }
+</style>

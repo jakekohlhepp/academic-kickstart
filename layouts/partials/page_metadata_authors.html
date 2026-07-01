@@ -1,15 +1,32 @@
 {{/* Display author list. */}}
 
 {{- $taxonomy := "authors" }}
+
+{{- /* Name of the site owner (superuser) — used to emphasize their own name. */ -}}
+{{- $superuser_name := "" -}}
+{{- range first 1 (where (where site.Pages "Section" "authors") "Params.superuser" true) -}}
+  {{- $superuser_name = .Title -}}
+{{- end -}}
+
 {{ if .Param $taxonomy }}
   {{ range $index, $value := (.GetTerms $taxonomy) }}
-    {{- /* Highlight the author's name? */ -}}
-    {{- $highlight_name := .Page.Params.highlight_name | default false -}}
+    {{- /* Emphasize the author's name when it matches the site owner (toggle via highlight_superuser). */ -}}
+    {{- $highlight_name := and site.Params.highlight_superuser (eq $value.LinkTitle $superuser_name) -}}
+
+    {{- /* External coauthor website. Add to a publication's front matter an inline
+           map keyed by the author name exactly as written in `authors`:
+             coauthor_links = { "Jane Doe" = "https://janedoe.com" }                          */ -}}
+    {{- $ext_url := "" -}}
+    {{- with $.Params.coauthor_links -}}
+      {{- $ext_url = index . $value.LinkTitle -}}
+    {{- end -}}
 
     {{- if gt $index 0 }}, {{ end -}}
-    <span {{ if $highlight_name }}class="author-highlighted"{{end}}>
+    <span {{ if $highlight_name }}class="font-weight-bold"{{end}}>
       {{/* Effectively check the page's `_build` option as `_build` is not exposed in Hugo's Page object. */}}
-      {{- if .RelPermalink -}}
+      {{- if $ext_url -}}
+        <a href="{{ $ext_url }}" target="_blank" rel="noopener" aria-label="{{ .LinkTitle }} (external website, opens in a new tab)">{{ .LinkTitle }}</a><i class="fas fa-external-link-alt coauthor-ext-icon" aria-hidden="true"></i>
+      {{- else if .RelPermalink -}}
         <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
       {{- else -}}
         {{ .LinkTitle | markdownify }}

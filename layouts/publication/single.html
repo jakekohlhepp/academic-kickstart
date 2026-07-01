@@ -1,0 +1,135 @@
+{{/*
+  Local override of themes/academic/layouts/publication/single.html.
+  Kept in the site repo (not the theme submodule) so these changes survive
+  `git submodule update` and are tracked in version control.
+
+  Customizations vs. the stock theme:
+    * Abstract is collapsed by default and expands on click (<details>).
+      The abstract text is taken from the `abstract` front-matter field if set,
+      otherwise from the page body (`.Content`), which is where the abstracts
+      currently live.
+      NOTE: when `abstract` is empty, the ENTIRE body is consumed as the collapsed
+      abstract and there is no separate body render. If you need body content beyond
+      the abstract (extra sections, figures), first move the abstract into the
+      `abstract` front-matter field; the body then renders separately below it.
+    * Optional "Presentations" list  (front matter: presentations = ["...", ...]).
+    * Optional "Awards" list         (front matter: awards = ["...", ...]).
+    Each presentation/award entry is a Markdown string, so links work:
+      presentations = ["[AEA Annual Meeting](https://www.aeaweb.org), 2025"]
+*/}}
+{{- define "main" -}}
+
+<div class="pub">
+
+  {{ partial "page_header.html" . }}
+
+  <div class="article-container">
+
+    {{/* Collapsible abstract. Source: `abstract` param, else the page body. */}}
+    {{ $abstract := "" }}
+    {{ if .Params.abstract }}
+      {{ $abstract = .Params.abstract | markdownify }}
+    {{ else if .Content }}
+      {{ $abstract = .Content }}
+    {{ end }}
+    {{ with $abstract }}
+    <details class="pub-abstract-details">
+      <summary>{{ i18n "abstract" }}</summary>
+      <div class="pub-abstract article-style">
+        {{ . }}
+      </div>
+    </details>
+    {{ end }}
+
+    {{ if and (.Params.publication_types) (ne (index .Params.publication_types 0) "0") }}
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">{{ i18n "publication_type" }}</div>
+          <div class="col-12 col-md-9">
+            {{ $pub_types := partial "functions/get_pub_types" $ }}
+            {{ range $index, $pubtype := .Params.publication_types }}
+            <a href="{{ (site.GetPage "section" "publication").RelPermalink }}#{{ . | urlize }}">
+              {{ index $pub_types (int .) }}
+            </a>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    {{ end }}
+
+    {{ if .Params.publication }}
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">{{ i18n "publication" }}</div>
+          <div class="col-12 col-md-9">
+            {{ .Params.publication | markdownify }}
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    {{ end }}
+
+    {{/* Presentations (optional). */}}
+    {{ with .Params.presentations }}
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Presentations</div>
+          <div class="col-12 col-md-9">
+            <ul class="pub-presentations">
+              {{ range . }}
+              <li>{{ . | markdownify }}</li>
+              {{ end }}
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    {{ end }}
+
+    {{/* Awards (optional). */}}
+    {{ with .Params.awards }}
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Awards</div>
+          <div class="col-12 col-md-9">
+            <ul class="pub-awards">
+              {{ range . }}
+              <li>{{ . | markdownify }}</li>
+              {{ end }}
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    {{ end }}
+
+    <div class="space-below"></div>
+
+    {{/* Render the body separately only when it is NOT already used as the abstract above. */}}
+    {{ if .Params.abstract }}
+    <div class="article-style">{{ .Content }}</div>
+    {{ end }}
+
+    {{ partial "page_footer" . }}
+
+  </div>
+</div>
+
+{{- end -}}

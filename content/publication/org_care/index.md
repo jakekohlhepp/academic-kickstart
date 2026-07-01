@@ -5,7 +5,8 @@ title = "Organizing the Production of Healthcare"
 date = "2026-03-23"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jacob Kohlhepp", "Pauline Mourot"]
+authors = ["Jacob Kohlhepp", "Ke Mao", "Pauline Mourot"]
+coauthor_links = { "Pauline Mourot" = "https://www.paulinemourot.com/" }
 
 # Publication type.
 # Legend:
@@ -62,7 +63,6 @@ highlight = false
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "headers/bubbles-wide.jpg"
-caption = "My caption 😄"
 
 +++
 

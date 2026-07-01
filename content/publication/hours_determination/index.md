@@ -6,6 +6,7 @@ date = "2026-03-23"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Pauline Carry","Jacob Kohlhepp", "Simon Quach"]
+coauthor_links = { "Pauline Carry" = "https://www.paulinecarry.com/", "Simon Quach" = "https://sites.google.com/view/simonquach" }
 
 # Publication type.
 # Legend:
@@ -62,7 +63,6 @@ highlight = false
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "headers/bubbles-wide.jpg"
-caption = "My caption 😄"
 
 +++
 

@@ -6,6 +6,7 @@ date = "2024-11-20"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Stepan Aleksenko","Jacob Kohlhepp"]
+coauthor_links = { "Stepan Aleksenko" = "https://www.saleksenko.com/" }
 
 # Publication type.
 # Legend:
@@ -52,6 +53,22 @@ url_source = "https://www.sciencedirect.com/science/article/abs/pii/S00220531240
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Official Link", url = ""}]
 
+# Coauthor websites: see the `coauthor_links` line under `authors` above.
+#   It is a one-line inline map keyed by the author name exactly as in `authors`.
+#   (Do NOT use a `[coauthor_links]` section header — a TOML table would capture
+#   every key beneath it, including `math`/`highlight`.)
+
+# Presentations (optional). One Markdown string per entry; links are supported.
+# presentations = [
+#   "[AEA Annual Meeting](https://www.aeaweb.org), San Francisco, 2025",
+#   "Econometric Society Summer Meeting, 2024",
+# ]
+
+# Awards (optional). One Markdown string per entry; links are supported.
+# awards = [
+#   "Best Graduate Student Paper, XYZ Conference, 2024",
+# ]
+
 # Does the content use math formatting?
 math = false
 
@@ -62,7 +79,6 @@ highlight = false
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "headers/bubbles-wide.jpg"
-caption = "My caption 😄"
 
 +++
 

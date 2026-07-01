@@ -6,6 +6,7 @@ date = "2024-01-24"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jacob Kohlhepp", "Robert McDonough"]
+coauthor_links = { "Robert McDonough" = "https://robmcdonough.com/" }
 
 # Publication type.
 # Legend:
@@ -26,7 +27,7 @@ publication_short = "Reject & Resubmit, Journal of Labor Economics"
 abstract = ""
 
 # Featured image thumbnail (optional)
-image_preview = "images/01_07b_labor_supply.pdf"
+#image_preview = ""
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -64,7 +65,6 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "headers/bubbles-wide.jpg"
-caption = "My caption 😄"
 
 +++
 In this paper, I study how voluntary labor supply decisions within an organization impact workplace injury using novel data on the payroll and workers’ compensation
