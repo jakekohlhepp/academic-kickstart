@@ -33,6 +33,12 @@ presentations = [
   "Urban Economics Association European Meeting",
 ]
 
+# Awards. One Markdown string per entry; links are supported.
+awards = [
+  "ZEW With and Within Orgs. Early Career Researcher Best Paper Prize",
+  "Oliver E. Williamson Best Conference Paper Award (SIOE)",
+]
+
 # Publication type.
 # Legend:
 # 0 = Uncategorized
