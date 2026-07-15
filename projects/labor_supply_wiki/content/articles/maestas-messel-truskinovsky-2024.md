@@ -1,7 +1,7 @@
 ---
 title: Caregiving and Labor Supply: New Evidence from Administrative Data
 slug: maestas-messel-truskinovsky-2024-caregiving-and-labor-supply
-authors: Nicole Maestas|Matthew Messel|Yana Truskinovsky
+authors: Nicole Maestas|Matthew Messel|Yulya Truskinovsky
 year: 2024
 journal: Journal of Labor Economics
 volume: 42
@@ -13,6 +13,9 @@ pdf_path: library/pdfs/maestas-messel-truskinovsky-2024-caregiving-and-labor-sup
 copy_type: NBER working-paper version of the peer-reviewed article
 tags: caregiving|administrative data|family constraints|extensive margin|recent
 related_themes: care-institutions-and-labor-supply|life-cycle-and-family-labor-supply|recent-directions-in-labor-supply-research|current-gaps-in-labor-supply-literature
+thread_title: Care institutions define the feasible work set
+thread_note: Child care, school schedules, leave, and elder care alter participation and continuity by changing whether market work is feasible, not merely whether it is attractive at the margin.
+thread_articles: baker-gruber-milligan-2008-universal-child-care|cascio-2009-public-preschool-maternal-labor-supply|han-ruhm-waldfogel-2009-parental-leave-policies|blau-kahn-2007-married-women-labor-supply|attanasio-levell-low-sanchez-marcos-2015-aggregating-elasticities
 shelf: recent
 deck: A recent administrative-data paper showing that caregiving obligations materially reduce labor supply, making clear how incomplete care systems shape work decisions.
 ---
@@ -40,7 +43,7 @@ This paper identifies the effect of caregiving burdens more directly than it ide
 
 ```bibtex
 @article{MaestasMesselTruskinovsky2024CaregivingLaborSupply,
-  author = {Maestas, Nicole and Messel, Matthew and Truskinovsky, Yana},
+  author = {Maestas, Nicole and Messel, Matthew and Truskinovsky, Yulya},
   title = {Caregiving and Labor Supply: New Evidence from Administrative Data},
   journal = {Journal of Labor Economics},
   year = {2024},

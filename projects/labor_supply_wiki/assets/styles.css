@@ -314,6 +314,59 @@ a:hover {
   margin-top: 0.3rem;
 }
 
+.thread-block {
+  margin-top: 2rem;
+  padding-top: 1.25rem;
+  border-top: 2px solid var(--ink);
+}
+
+.thread-block h2 {
+  margin: 0.35rem 0 0.55rem;
+}
+
+.thread-block > p:not(.eyebrow) {
+  margin: 0 0 1rem;
+  color: var(--muted);
+}
+
+.thread-list {
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid var(--line);
+  list-style: none;
+}
+
+.thread-list li + li {
+  margin-top: 0;
+}
+
+.thread-link {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 1rem;
+  align-items: baseline;
+  padding: 0.7rem 0;
+  border-bottom: 1px solid var(--line);
+  text-decoration: none;
+}
+
+.thread-link:hover .thread-link-title {
+  text-decoration: underline;
+  text-underline-offset: 0.16em;
+}
+
+.thread-link-title {
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+.thread-link-meta {
+  color: var(--muted);
+  font-family: "Aptos", "Avenir Next", "Segoe UI", sans-serif;
+  font-size: 0.82rem;
+  white-space: nowrap;
+}
+
 .code-block {
   position: relative;
   margin: 1.1rem 0;
@@ -389,5 +442,14 @@ a:hover {
 
   .meta-grid {
     grid-template-columns: 1fr;
+  }
+
+  .thread-link {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0.15rem;
+  }
+
+  .thread-link-meta {
+    white-space: normal;
   }
 }

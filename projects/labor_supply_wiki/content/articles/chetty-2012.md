@@ -13,6 +13,9 @@ pdf_path: library/pdfs/chetty-2012-bounds-on-elasticities.pdf
 copy_type: Harvard DASH open PDF of the peer-reviewed article
 tags: chetty|optimization frictions|elasticity bounds|micro vs macro|welfare
 related_themes: micro-vs-macro-elasticities|taxes-benefits-and-work-incentives|estimation-strategies-and-relative-credibility|current-gaps-in-labor-supply-literature|recent-directions-in-labor-supply-research|utility-functions-and-dynamic-vs-static-models
+thread_title: From observed response to structural elasticity
+thread_note: Chetty's bounds connect small local responses to larger underlying preferences when adjustment is costly, then later papers ask which long-run mechanisms actually generate the gap.
+thread_articles: chetty-friedman-olsen-pistaferri-2011-adjustment-costs|chetty-guren-manoli-weber-2011-micro-vs-macro-elasticities|keane-rogerson-2015-reconciling-micro-macro-elasticities|kleven-kreiner-larsen-sogaard-2025-dynamic-returns-to-effort|keane-neal-2025-robust-inference-frisch-labor-supply-elasticity
 shelf: chetty-start
 deck: The paper that formalizes a key modern lesson: small observed responses can be consistent with larger underlying elasticities when optimization frictions are present.
 ---

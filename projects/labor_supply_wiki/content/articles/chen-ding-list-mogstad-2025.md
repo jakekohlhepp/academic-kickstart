@@ -13,6 +13,9 @@ pdf_path: library/pdfs/chen-ding-list-mogstad-2025-job-flexibility.pdf
 copy_type: NBER working-paper version of the peer-reviewed article
 tags: job flexibility|reservation wages|dynamic model|uber|discrete scheduling
 related_themes: discrete-scheduling-and-labor-supply|hours-mismatch-and-work-arrangements|recent-directions-in-labor-supply-research|estimation-strategies-and-relative-credibility|utility-functions-and-dynamic-vs-static-models
+thread_title: What near-complete schedule choice reveals
+thread_note: Uber provides a dense choice set that exposes fixed shift-entry costs, time-varying reservation wages, and the gap between static and dynamic valuations of flexibility.
+thread_articles: altonji-paxson-1992-hours-constraints-and-job-mobility|hall-krueger-2018-uber-driver-partners-labor-market|mas-pallais-2017-valuing-alternative-work-arrangements|chen-chevalier-rossi-oehlsen-2019-value-of-flexible-work|hall-horton-knoepfle-2023-ridesharing-markets-reequilibrate
 shelf: recent
 deck: A recent field-experimental paper recovering reservation wages and elasticity heterogeneity in a setting with near-complete schedule choice, and showing how much static methods can miss.
 ---

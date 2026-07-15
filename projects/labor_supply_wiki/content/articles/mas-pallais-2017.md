@@ -13,6 +13,9 @@ pdf_path: library/pdfs/mas-pallais-2017-valuing-alternative-work-arrangements.pd
 copy_type: NBER working-paper version of the peer-reviewed article
 tags: mas and pallais|alternative work arrangements|schedule control|work from home|hours mismatch
 related_themes: hours-mismatch-and-work-arrangements|discrete-scheduling-and-labor-supply|organizations-and-firm-side-labor-supply|recent-directions-in-labor-supply-research
+thread_title: From fixed hours to multidimensional job bundles
+thread_note: The older literature establishes that workers cannot freely choose hours within jobs; Mas and Pallais identify which schedule attributes workers value and which they avoid.
+thread_articles: altonji-paxson-1988-hours-wage-tradeoffs|dickens-lundberg-1993-hours-restrictions-and-labor-supply|bloom-liang-roberts-ying-2015-working-from-home|chen-chevalier-rossi-oehlsen-2019-value-of-flexible-work|chen-ding-list-mogstad-2025-job-flexibility|lavetti-schmutte-2023-compensating-differentials-job-attributes
 shelf: recent
 deck: A core Mas-Pallais paper showing that workers value some alternative arrangements a lot, but especially dislike employer-controlled unpredictability rather than valuing flexibility in the abstract.
 ---

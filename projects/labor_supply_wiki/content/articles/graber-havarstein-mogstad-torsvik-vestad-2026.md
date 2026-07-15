@@ -10,6 +10,9 @@ pdf_path: library/pdfs/graber-havarstein-mogstad-torsvik-vestad-2026-substitutio
 copy_type: Local NBER working paper PDF
 tags: taxable income|income effects|taxation|heterogeneity|recent
 related_themes: taxes-benefits-and-work-incentives|estimation-strategies-and-relative-credibility|current-gaps-in-labor-supply-literature|recent-directions-in-labor-supply-research|utility-functions-and-dynamic-vs-static-models|taxable-income-and-income-effects
+thread_title: Separating taxable income from labor supply
+thread_note: The paper reconnects ETI estimates to compensated and uncompensated labor-supply elasticities by adding heterogeneity and independent evidence on income effects.
+thread_articles: saez-2001-elasticities-optimal-income-tax-rates|gruber-saez-2002-elasticity-of-taxable-income|saez-slemrod-giertz-2012-eti-critical-review|kumar-liang-2020-eti-elasticity-heterogeneity|cesarini-lindqvist-notowidigdo-ostling-2017-wealth-and-labor-supply
 shelf: recent
 deck: A frontier paper that separates what ETI estimates tell us about substitution effects, income effects, and actual labor-supply elasticities by combining tax-reform evidence with lottery-winnings evidence.
 ---

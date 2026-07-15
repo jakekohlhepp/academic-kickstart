@@ -13,6 +13,9 @@ pdf_path: library/pdfs/kleven-kreiner-larsen-sogaard-2025-dynamic-returns-to-eff
 copy_type: NBER working-paper version of the peer-reviewed article
 tags: recent|micro vs macro|dynamic returns|taxation|quasi-experimental
 related_themes: current-gaps-in-labor-supply-literature|estimation-strategies-and-relative-credibility|micro-vs-macro-elasticities|recent-directions-in-labor-supply-research|organizations-and-firm-side-labor-supply|utility-functions-and-dynamic-vs-static-models
+thread_title: Measuring the long-run response micro designs miss
+thread_note: The paper gives a quasi-experimental counterpart to structural arguments about human capital and delayed adjustment by tracing earnings responses through job switching.
+thread_articles: chetty-friedman-olsen-pistaferri-2011-adjustment-costs|chetty-2012-bounds-on-elasticities|keane-rogerson-2012-micro-macro-labor-supply-elasticities|imai-keane-2004-intertemporal-labor-supply-human-capital|graber-havarstein-mogstad-torsvik-vestad-2026-substitution-income-effects-taxation
 shelf: recent
 deck: A recent frontier paper showing that long-run earnings responses to taxes can be much larger than short-run responses because effort pays off through delayed job ladders and mobility.
 ---

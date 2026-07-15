@@ -366,6 +366,48 @@ def theme_article_links(theme: dict[str, object], articles_by_slug: dict[str, di
     return "".join(cards)
 
 
+def article_thread(
+    article: dict[str, object],
+    articles_by_slug: dict[str, dict[str, object]],
+    root_prefix: str,
+) -> str:
+    thread_articles = article.get("thread_articles", [])
+    if not isinstance(thread_articles, list):
+        return ""
+
+    links: list[str] = []
+    for slug in thread_articles:
+        linked = articles_by_slug.get(str(slug))
+        if not linked:
+            continue
+
+        meta_parts = [str(linked.get("year", "")).strip(), str(linked.get("journal", "")).strip()]
+        meta_line = " - ".join(part for part in meta_parts if part)
+        links.append(
+            '<li>'
+            f'<a class="thread-link" href="{root_prefix}/articles/{linked["slug"]}.html">'
+            f'<span class="thread-link-title">{html.escape(str(linked.get("title", "")))}</span>'
+            f'<span class="thread-link-meta">{html.escape(meta_line)}</span>'
+            '</a>'
+            '</li>'
+        )
+
+    if not links:
+        return ""
+
+    thread_title = str(article.get("thread_title", "Read the thread")).strip()
+    thread_note = str(article.get("thread_note", "")).strip()
+    note_html = f"<p>{html.escape(thread_note)}</p>" if thread_note else ""
+    return f"""
+    <section class="thread-block" aria-labelledby="thread-heading">
+      <p class="eyebrow">Literature path</p>
+      <h2 id="thread-heading">{html.escape(thread_title)}</h2>
+      {note_html}
+      <ol class="thread-list">{''.join(links)}</ol>
+    </section>
+    """
+
+
 def write_page(path: Path, text: str) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(text, encoding="utf-8")
@@ -551,6 +593,7 @@ def build() -> None:
               {article_meta(article, '..')}
               <article class="prose">
                 {article['html']}
+                {article_thread(article, articles_by_slug, '..')}
               </article>
             </section>
             """,

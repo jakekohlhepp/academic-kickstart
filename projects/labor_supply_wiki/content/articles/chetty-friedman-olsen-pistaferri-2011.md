@@ -13,6 +13,9 @@ pdf_path: library/pdfs/chetty-friedman-olsen-pistaferri-2011-adjustment-costs.pd
 copy_type: Harvard DASH open PDF of the peer-reviewed article
 tags: chetty|micro vs macro|tax records|adjustment costs|hours constraints
 related_themes: micro-vs-macro-elasticities|taxes-benefits-and-work-incentives|recent-directions-in-labor-supply-research|organizations-and-firm-side-labor-supply|discrete-scheduling-and-labor-supply
+thread_title: From hours constraints to delayed adjustment
+thread_note: This paper links the older fixed-hours job literature to newer evidence that career moves and firm-side job design mediate long-run tax responses.
+thread_articles: dickens-lundberg-1993-hours-restrictions-and-labor-supply|rogerson-wallenius-2009-micro-macro-elasticities-life-cycle-taxes|chetty-2012-bounds-on-elasticities|keane-rogerson-2015-reconciling-micro-macro-elasticities|kleven-kreiner-larsen-sogaard-2025-dynamic-returns-to-effort
 shelf: chetty-start
 deck: A flagship paper arguing that small short-run micro responses do not automatically imply small long-run or aggregate labor-supply responses.
 ---
