@@ -74,7 +74,7 @@ projects = []
 
 url_pdf = "files/kohlhepp_jmp.pdf"
 url_preprint = ""
-url_code = "https://github.com/jakekohlhepp/internalorg"
+url_code = "https://github.com/jakekohlhepp/inner_beauty"
 url_dataset = ""
 url_project = ""
 url_slides = "pdf/slides_kohlhepp_jmp.pdf"
