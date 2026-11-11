@@ -3,6 +3,7 @@
   Only change vs. the stock theme: in list views, a publication's status text
   (publication_short / publication) renders as a colored pill badge:
     - contains "Resubmit"          -> .pub-status-rr   (amber)
+    - contains "Accepted"          -> .pub-status-pub  (green)
     - journal article (pubtype 2)  -> .pub-status-pub  (green)
     - anything else                -> .pub-status-note (gray-blue)
   Pill CSS lives in layouts/partials/custom_head.html.
@@ -48,6 +49,8 @@
   {{ $status_class := "pub-status-note" }}
   {{ if findRE `(?i)resubmit` . }}
     {{ $status_class = "pub-status-rr" }}
+  {{ else if findRE `(?i)accepted` . }}
+    {{ $status_class = "pub-status-pub" }}
   {{ else }}
     {{ with $page.Params.publication_types }}
       {{ if eq (index . 0) "2" }}
