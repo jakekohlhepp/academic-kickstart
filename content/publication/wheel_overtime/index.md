@@ -55,13 +55,14 @@ url_code = "https://github.com/jakekohlhepp/wheel_overtime"
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = "https://www.youtube.com/live/0L-SNNMG64A?si=dLhTqWo6NXXaqEAb&t=22129"
+url_video = ""
 url_poster = ""
 url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
+links = [{name = "AI Explainer Video", url = "https://www.jkohlhepp.com/video/wheel_overtime_ai_explainer.mp4"}]
 
 # Does the content use math formatting?
 math = false
