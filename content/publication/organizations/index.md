@@ -85,7 +85,7 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
-url_custom = [{name = "Teaching Slides", url = "https://www.jkohlhepp.com/pdf/slides_teaching_jmp.pdf"}]
+url_custom = [{name = "Teaching Slides", url = "https://www.jkohlhepp.com/pdf/slides_teaching_jmp.pdf"}, {name = "AI Explainer Video", url = "https://www.jkohlhepp.com/video/inner_beauty_ai_explainer.mp4"}]
 
 # Does the content use math formatting?
 math = true
